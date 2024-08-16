@@ -1,0 +1,1525 @@
+2021-03-26 18:31:15,329 - root - INFO - **************Test001_Login***********
+2021-03-26 18:31:15,335 - root - INFO - **************Verifying Homepage Title*****************
+2021-03-26 18:31:19,814 - root - INFO - **************Homepage Title is passed*****************
+2021-03-26 18:31:21,176 - root - INFO - **************Verifying Login Title*****************
+2021-03-26 18:31:33,232 - root - INFO - **************Login Title is passed*****************
+2021-03-26 19:34:55,834 - root - INFO - **************Test001_Login***********
+2021-03-26 19:34:55,834 - root - INFO - **************Verifying Homepage Title*****************
+2021-03-26 19:34:57,894 - root - INFO - **************Verifying Login Title*****************
+2021-03-26 19:36:32,112 - root - INFO - **************Test001_Login***********
+2021-03-26 19:36:32,112 - root - INFO - **************Verifying Homepage Title*****************
+2021-03-26 19:36:34,532 - root - INFO - **************Verifying Login Title*****************
+2021-03-26 19:38:05,628 - root - INFO - **************Test001_Login***********
+2021-03-26 19:38:05,694 - root - INFO - **************Verifying Homepage Title*****************
+2021-03-26 19:38:07,327 - root - INFO - **************Verifying Login Title*****************
+2021-03-26 19:39:10,785 - root - INFO - **************Test001_Login***********
+2021-03-26 19:39:10,787 - root - INFO - **************Verifying Homepage Title*****************
+2021-03-26 19:39:12,279 - root - INFO - **************Verifying Login Title*****************
+2021-03-26 19:39:48,598 - root - INFO - **************Test001_Login***********
+2021-03-26 19:39:48,598 - root - INFO - **************Verifying Homepage Title*****************
+2021-03-26 19:39:50,158 - root - INFO - **************Verifying Login Title*****************
+2021-03-26 19:40:53,338 - root - INFO - **************Test001_Login***********
+2021-03-26 19:40:53,338 - root - INFO - **************Verifying Homepage Title*****************
+2021-03-26 19:40:54,754 - root - INFO - **************Verifying Login Title*****************
+2021-03-26 19:42:49,285 - root - INFO - **************Test001_Login***********
+2021-03-26 19:42:49,286 - root - INFO - **************Verifying Homepage Title*****************
+2021-03-26 19:42:50,689 - root - INFO - **************Verifying Login Title*****************
+2021-03-26 19:43:36,832 - root - INFO - **************Test001_Login***********
+2021-03-26 19:43:36,833 - root - INFO - **************Verifying Homepage Title*****************
+2021-03-26 19:43:38,340 - root - INFO - **************Verifying Login Title*****************
+2021-03-26 19:45:14,364 - root - INFO - **************Test001_Login***********
+2021-03-26 19:45:14,365 - root - INFO - **************Verifying Homepage Title*****************
+2021-03-26 19:45:15,904 - root - INFO - **************Verifying Login Title*****************
+2021-03-26 19:47:40,094 - root - INFO - **************Test001_Login***********
+2021-03-26 19:47:40,116 - root - INFO - **************Verifying Homepage Title*****************
+2021-03-26 19:47:41,566 - root - INFO - **************Verifying Login Title*****************
+2021-03-26 19:48:18,022 - root - INFO - **************Test001_Login***********
+2021-03-26 19:48:18,023 - root - INFO - **************Verifying Homepage Title*****************
+2021-03-26 19:48:22,109 - root - INFO - **************Homepage Title is passed*****************
+2021-03-26 19:48:23,688 - root - INFO - **************Verifying Login Title*****************
+2021-03-26 19:48:28,695 - root - INFO - **************Login Title is passed*****************
+2021-03-26 19:49:15,670 - root - INFO - **************Test001_Login***********
+2021-03-26 19:49:15,670 - root - INFO - **************Verifying Homepage Title*****************
+2021-03-26 19:49:20,297 - root - INFO - **************Homepage Title is passed*****************
+2021-03-26 19:49:21,718 - root - INFO - **************Verifying Login Title*****************
+2021-03-26 19:49:27,908 - root - INFO - **************Login Title is passed*****************
+2021-03-26 20:19:25,371 - root - INFO - **************Test001_Login***********
+2021-03-26 20:19:25,372 - root - INFO - **************Verifying Homepage Title*****************
+2021-03-26 20:19:30,478 - root - INFO - **************Homepage Title is passed*****************
+2021-03-26 20:19:32,209 - root - INFO - **************Verifying Login Title*****************
+2021-03-26 20:19:37,226 - root - INFO - **************Login Title is passed*****************
+2021-03-29 15:56:59,131 - root - INFO - **************Test001_Login***********
+2021-03-29 15:56:59,208 - root - INFO - **************Verifying Homepage Title*****************
+2021-03-29 15:57:00,633 - root - INFO - **************Verifying Login Title*****************
+2021-03-29 15:59:08,537 - root - INFO - **************Test001_Login***********
+2021-03-29 15:59:08,656 - root - INFO - **************Verifying Homepage Title*****************
+2021-03-29 15:59:10,284 - root - INFO - **************Verifying Login Title*****************
+2021-03-29 16:01:11,086 - root - INFO - **************Test001_Login***********
+2021-03-29 16:01:11,087 - root - INFO - **************Verifying Homepage Title*****************
+2021-03-29 16:01:12,747 - root - INFO - **************Verifying Login Title*****************
+2021-03-29 16:10:11,504 - root - INFO - **************Test001_Login***********
+2021-03-29 16:10:11,504 - root - INFO - **************Verifying Homepage Title*****************
+2021-03-29 16:10:11,635 - root - INFO - **************Verifying Login Title*****************
+2021-03-29 16:13:49,000 - root - INFO - **************Test001_Login***********
+2021-03-29 16:13:49,001 - root - INFO - **************Verifying Homepage Title*****************
+2021-03-29 16:13:58,063 - root - INFO - **************Homepage Title is passed*****************
+2021-03-29 16:14:00,962 - root - INFO - **************Verifying Login Title*****************
+2021-03-29 16:14:15,462 - root - INFO - **************Login Title is passed*****************
+2021-03-29 16:15:20,425 - root - INFO - **************Test001_Login***********
+2021-03-29 16:15:20,426 - root - INFO - **************Verifying Homepage Title*****************
+2021-03-29 16:15:36,111 - root - INFO - **************Homepage Title is passed*****************
+2021-03-29 16:15:37,678 - root - INFO - **************Verifying Login Title*****************
+2021-03-29 16:15:43,357 - root - INFO - **************Login Title is passed*****************
+2021-03-29 16:17:13,121 - root - INFO - **************Test001_Login***********
+2021-03-29 16:17:13,121 - root - INFO - **************Verifying Homepage Title*****************
+2021-03-29 16:17:22,589 - root - INFO - **************Homepage Title is passed*****************
+2021-03-29 16:17:24,131 - root - INFO - **************Verifying Login Title*****************
+2021-03-29 16:17:29,344 - root - INFO - **************Login Title is passed*****************
+2021-03-29 16:37:11,426 - root - INFO - **************Test001_Login***********
+2021-03-29 16:37:11,427 - root - INFO - **************Verifying Homepage Title*****************
+2021-03-29 16:37:57,757 - root - INFO - **************Verifying Login Title*****************
+2021-03-29 16:40:42,540 - root - INFO - **************Test001_Login***********
+2021-03-29 16:40:42,545 - root - INFO - **************Verifying Homepage Title*****************
+2021-03-29 16:41:01,338 - root - INFO - **************Homepage Title is passed*****************
+2021-03-29 16:41:02,891 - root - INFO - **************Verifying Login Title*****************
+2021-03-29 16:41:19,735 - root - INFO - **************Login Title is passed*****************
+2021-03-29 16:43:23,895 - root - INFO - **************Test001_Login***********
+2021-03-29 16:43:23,959 - root - INFO - **************Verifying Homepage Title*****************
+2021-03-29 16:43:34,879 - root - INFO - **************Homepage Title is passed*****************
+2021-03-29 16:43:36,550 - root - INFO - **************Verifying Login Title*****************
+2021-03-29 16:43:47,409 - root - INFO - **************Login Title is passed*****************
+2021-03-29 16:46:44,692 - root - INFO - **************Test001_Login***********
+2021-03-29 16:46:44,692 - root - INFO - **************Verifying Homepage Title*****************
+2021-03-29 16:46:55,505 - root - INFO - **************Homepage Title is passed*****************
+2021-03-29 16:46:56,893 - root - INFO - **************Verifying Login Title*****************
+2021-03-29 16:47:09,084 - root - INFO - **************Login Title is passed*****************
+2021-03-29 16:49:48,769 - root - INFO - **************Test001_Login***********
+2021-03-29 16:49:48,771 - root - INFO - **************Verifying Homepage Title*****************
+2021-03-29 16:50:03,831 - root - INFO - **************Homepage Title is passed*****************
+2021-03-29 16:50:05,712 - root - INFO - **************Verifying Login Title*****************
+2021-03-29 16:50:16,903 - root - INFO - **************Login Title is passed*****************
+2021-03-29 16:51:40,092 - root - INFO - **************Test001_Login***********
+2021-03-29 16:51:40,107 - root - INFO - **************Verifying Homepage Title*****************
+2021-03-29 16:51:50,752 - root - INFO - **************Homepage Title is passed*****************
+2021-03-29 16:51:52,578 - root - INFO - **************Verifying Login Title*****************
+2021-03-29 16:52:02,348 - root - INFO - **************Login Title is passed*****************
+2021-03-29 16:56:45,745 - root - INFO - **************Test001_Login***********
+2021-03-29 16:56:45,751 - root - INFO - **************Verifying Homepage Title*****************
+2021-03-29 16:57:48,209 - root - INFO - **************Homepage Title is passed*****************
+2021-03-29 16:57:49,976 - root - INFO - **************Verifying Login Title*****************
+2021-03-29 16:58:44,527 - root - INFO - **************Login Title is passed*****************
+2021-03-29 17:00:24,398 - root - INFO - **************Test001_Login***********
+2021-03-29 17:00:24,398 - root - INFO - **************Verifying Homepage Title*****************
+2021-03-29 17:01:09,725 - root - INFO - **************Verifying Login Title*****************
+2021-03-29 17:41:40,631 - root - INFO - **************Test001_Login***********
+2021-03-29 17:41:40,652 - root - INFO - **************Verifying Homepage Title*****************
+2021-03-29 17:42:42,641 - root - INFO - **************Homepage Title is passed*****************
+2021-03-29 17:42:44,087 - root - INFO - **************Verifying Login Title*****************
+2021-03-29 17:43:51,561 - root - INFO - **************Login Title is passed*****************
+2021-03-29 18:09:48,288 - root - INFO - **************Test001_Login***********
+2021-03-29 18:09:48,289 - root - INFO - **************Verifying Homepage Title*****************
+2021-03-29 18:10:36,366 - root - INFO - **************Homepage Title is passed*****************
+2021-03-29 18:10:38,141 - root - INFO - **************Verifying Login Title*****************
+2021-03-29 18:10:52,224 - root - INFO - **************Login Title is passed*****************
+2021-03-29 18:23:13,730 - root - INFO - **************Test001_Login***********
+2021-03-29 18:23:13,730 - root - INFO - **************Verifying Homepage Title*****************
+2021-03-29 18:23:40,313 - root - INFO - **************Verifying Login Title*****************
+2021-03-29 18:24:01,845 - root - INFO - **************Test001_Login***********
+2021-03-29 18:24:01,845 - root - INFO - **************Verifying Homepage Title*****************
+2021-03-29 18:24:15,443 - root - INFO - **************Homepage Title is passed*****************
+2021-03-29 18:24:17,283 - root - INFO - **************Verifying Login Title*****************
+2021-03-29 18:25:47,860 - root - INFO - **************Login Title is passed*****************
+2021-03-29 18:28:49,926 - root - INFO - **************Test001_Login***********
+2021-03-29 18:28:49,927 - root - INFO - **************Verifying Homepage Title*****************
+2021-03-29 18:29:50,326 - root - INFO - **************Homepage Title is passed*****************
+2021-03-29 18:29:52,027 - root - INFO - **************Verifying Login Title*****************
+2021-03-29 18:30:02,873 - root - INFO - **************Login Title is passed*****************
+2021-03-29 18:32:34,882 - root - INFO - **************Test001_Login***********
+2021-03-29 18:32:34,883 - root - INFO - **************Verifying Homepage Title*****************
+2021-03-29 18:32:51,959 - root - INFO - **************Homepage Title is passed*****************
+2021-03-29 18:32:53,464 - root - INFO - **************Verifying Login Title*****************
+2021-03-29 18:33:26,682 - root - INFO - **************Login Title is passed*****************
+2021-03-29 20:29:16,158 - root - INFO - **************Test001_Login***********
+2021-03-29 20:29:16,195 - root - INFO - **************Verifying Homepage Title*****************
+2021-03-29 20:29:25,470 - root - INFO - **************Homepage Title is passed*****************
+2021-03-29 20:29:27,647 - root - INFO - **************Verifying Login Title*****************
+2021-03-29 20:29:33,064 - root - INFO - **************Login Title is passed*****************
+2021-03-29 20:52:46,108 - root - INFO - **************Test001_Login***********
+2021-03-29 20:52:46,109 - root - INFO - **************Verifying Homepage Title*****************
+2021-03-29 20:52:51,646 - root - INFO - **************Homepage Title is passed*****************
+2021-03-29 20:52:53,211 - root - INFO - **************Verifying Login Title*****************
+2021-03-29 20:53:02,895 - root - INFO - **************Login Title is passed*****************
+2021-03-29 20:53:37,194 - root - INFO - **************Test001_Login***********
+2021-03-29 20:53:37,274 - root - INFO - **************Verifying Homepage Title*****************
+2021-03-29 20:53:41,554 - root - INFO - **************Homepage Title is passed*****************
+2021-03-29 20:53:42,868 - root - INFO - **************Verifying Login Title*****************
+2021-03-29 20:53:49,123 - root - INFO - **************Login Title is passed*****************
+2021-03-29 20:54:17,578 - root - INFO - **************Test001_Login***********
+2021-03-29 20:54:17,579 - root - INFO - **************Verifying Homepage Title*****************
+2021-03-29 20:54:22,844 - root - INFO - **************Homepage Title is passed*****************
+2021-03-29 20:54:24,394 - root - INFO - **************Verifying Login Title*****************
+2021-03-29 20:54:33,852 - root - INFO - **************Login Title is passed*****************
+2021-03-30 11:28:00,296 - root - INFO - **************Test001_Login***********
+2021-03-30 11:28:00,391 - root - INFO - **************Verifying Homepage Title*****************
+2021-03-30 11:28:05,339 - root - INFO - **************Homepage Title is passed*****************
+2021-03-30 11:28:06,680 - root - INFO - **************Verifying Login Title*****************
+2021-03-30 11:28:11,675 - root - INFO - **************Login Title is passed*****************
+2021-03-30 11:29:12,721 - root - ERROR - **************Homepage Title is failed*****************
+2021-03-30 11:32:41,002 - root - INFO - **************Test001_Login***********
+2021-03-30 11:32:41,002 - root - INFO - **************Verifying Homepage Title*****************
+2021-03-30 11:32:46,028 - root - INFO - **************Homepage Title is passed*****************
+2021-03-30 11:32:47,453 - root - INFO - **************Verifying Login Title*****************
+2021-03-30 11:32:52,725 - root - INFO - **************Login Title is passed*****************
+2021-03-30 11:33:32,648 - root - INFO - **************Test001_Login***********
+2021-03-30 11:33:32,649 - root - INFO - **************Verifying Homepage Title*****************
+2021-03-30 11:33:38,821 - root - ERROR - **************Homepage Title is failed*****************
+2021-03-30 11:33:40,642 - root - INFO - **************Verifying Login Title*****************
+2021-03-30 11:33:46,390 - root - INFO - **************Login Title is passed*****************
+2021-03-30 11:34:40,576 - root - INFO - **************Test001_Login***********
+2021-03-30 11:34:40,577 - root - INFO - **************Verifying Homepage Title*****************
+2021-03-30 11:34:45,390 - root - INFO - **************Homepage Title is passed*****************
+2021-03-30 11:34:46,654 - root - INFO - **************Verifying Login Title*****************
+2021-03-30 11:34:55,864 - root - INFO - **************Login Title is passed*****************
+2021-03-30 11:35:47,899 - root - INFO - **************Test001_Login***********
+2021-03-30 11:35:47,899 - root - INFO - **************Verifying Homepage Title*****************
+2021-03-30 11:35:52,996 - root - INFO - **************Homepage Title is passed*****************
+2021-03-30 11:35:54,346 - root - INFO - **************Verifying Login Title*****************
+2021-03-30 11:36:00,246 - root - INFO - **************Login Title is passed*****************
+2021-03-30 13:09:55,772 - root - INFO - **************Test001_Login***********
+2021-03-30 13:09:55,772 - root - INFO - **************Verifying Homepage Title*****************
+2021-03-30 13:10:01,032 - root - INFO - **************Homepage Title is passed*****************
+2021-03-30 13:10:02,497 - root - INFO - **************Verifying Login Title*****************
+2021-03-30 13:10:08,335 - root - INFO - **************Login Title is passed*****************
+2021-03-30 13:10:43,341 - root - INFO - **************Test001_Login***********
+2021-03-30 13:10:43,341 - root - INFO - **************Verifying Homepage Title*****************
+2021-03-30 13:10:48,587 - root - INFO - **************Homepage Title is passed*****************
+2021-03-30 13:10:50,066 - root - INFO - **************Verifying Login Title*****************
+2021-03-30 13:10:55,360 - root - INFO - **************Login Title is passed*****************
+2021-04-05 14:44:33,072 - root - INFO - ************** Test-002-Verifying Multilogin*****************
+2021-04-05 14:44:33,187 - root - INFO - **************Multilogin test starts*****************
+2021-04-05 16:17:01,692 - root - INFO - ************** Test-002-Verifying Multilogin*****************
+2021-04-05 16:17:01,977 - root - INFO - **************Multilogin test starts*****************
+2021-04-05 16:21:29,810 - root - INFO - ************** Test-002-Verifying Multilogin*****************
+2021-04-05 16:21:29,838 - root - INFO - **************Multilogin test starts*****************
+2021-04-05 16:36:00,554 - root - INFO - ************** Test-002-Verifying Multilogin*****************
+2021-04-05 16:36:00,575 - root - INFO - **************Multilogin test starts*****************
+2021-04-05 16:46:46,851 - root - INFO - ************** Test-002-Verifying Multilogin*****************
+2021-04-05 16:46:46,852 - root - INFO - **************Multilogin test starts*****************
+2021-04-05 18:14:51,938 - root - INFO - ************** Test-002-Verifying Multilogin*****************
+2021-04-05 18:14:52,042 - root - INFO - **************Multilogin test starts*****************
+2021-04-05 18:19:26,572 - root - INFO - ************** Test-002-Verifying Multilogin*****************
+2021-04-05 18:19:26,595 - root - INFO - **************Multilogin test starts*****************
+2021-04-05 18:30:57,517 - root - INFO - ************** Test-002-Verifying Multilogin*****************
+2021-04-05 18:30:57,517 - root - INFO - **************Multilogin test starts*****************
+2021-04-05 18:53:35,320 - root - INFO - ************** Test-002-Verifying Multilogin*****************
+2021-04-05 18:53:35,321 - root - INFO - **************Multilogin test starts*****************
+2021-04-05 18:55:15,645 - root - INFO - ************** Test-002-Verifying Multilogin*****************
+2021-04-05 18:55:15,645 - root - INFO - **************Multilogin test starts*****************
+2021-04-05 18:59:49,215 - root - INFO - ************** Test-002-Verifying Multilogin*****************
+2021-04-05 18:59:49,215 - root - INFO - **************Multilogin test starts*****************
+2021-04-07 13:10:58,248 - root - INFO - ************** Test-002-Verifying Multilogin*****************
+2021-04-07 13:10:58,270 - root - INFO - **************Multilogin test starts*****************
+2021-04-07 13:25:55,419 - root - INFO - ************** Test-002-Verifying Multilogin*****************
+2021-04-07 13:25:55,420 - root - INFO - **************Multilogin test starts*****************
+2021-04-07 13:29:07,419 - root - INFO - ************** Test-002-Verifying Multilogin*****************
+2021-04-07 13:29:07,419 - root - INFO - **************Multilogin test starts*****************
+2021-04-07 13:34:11,168 - root - INFO - ************** Test-002-Verifying Multilogin*****************
+2021-04-07 13:34:11,169 - root - INFO - **************Multilogin test starts*****************
+2021-04-07 13:38:25,493 - root - INFO - ************** Test-002-Verifying Multilogin*****************
+2021-04-07 13:38:25,541 - root - INFO - **************Multilogin test starts*****************
+2021-04-07 13:53:26,311 - root - INFO - ************** Test-002-Verifying Multilogin*****************
+2021-04-07 13:53:26,471 - root - INFO - **************Multilogin test starts*****************
+2021-04-07 13:54:50,271 - root - INFO - ************** Test-002-Verifying Multilogin*****************
+2021-04-07 13:54:50,271 - root - INFO - **************Multilogin test starts*****************
+2021-04-07 13:56:01,538 - root - INFO - ************** Test-002-Verifying Multilogin*****************
+2021-04-07 13:56:01,538 - root - INFO - **************Multilogin test starts*****************
+2021-04-07 14:00:55,552 - root - INFO - ************** Test-002-Verifying Multilogin*****************
+2021-04-07 14:00:55,552 - root - INFO - **************Multilogin test starts*****************
+2021-04-07 14:22:59,003 - root - INFO - ************** Test-002-Verifying Multilogin*****************
+2021-04-07 14:22:59,004 - root - INFO - **************Multilogin test starts*****************
+2021-04-07 14:28:00,566 - root - INFO - ************** Test-002-Verifying Multilogin*****************
+2021-04-07 14:28:00,566 - root - INFO - **************Multilogin test starts*****************
+2021-04-07 14:28:10,993 - root - INFO - *********Passed************
+2021-04-07 14:28:17,070 - root - INFO - *********Failed************
+2021-04-07 14:33:43,897 - root - INFO - ************** Test-002-Verifying Multilogin*****************
+2021-04-07 14:33:43,897 - root - INFO - **************Multilogin test starts*****************
+2021-04-07 14:34:25,382 - root - INFO - *********Passed************
+2021-04-07 14:34:31,661 - root - INFO - *********Failed************
+2021-04-07 14:35:26,371 - root - INFO - ************** Test-002-Verifying Multilogin*****************
+2021-04-07 14:35:26,371 - root - INFO - **************Multilogin test starts*****************
+2021-04-07 14:36:01,817 - root - INFO - *********Passed************
+2021-04-07 14:36:07,998 - root - INFO - *********Failed************
+2021-04-07 14:36:13,429 - root - INFO - *********Failed************
+2021-04-07 14:36:13,429 - root - INFO - *****Testcase_002 Multilogin is Failed****
+2021-04-07 14:40:24,225 - root - INFO - ************** Test-002-Verifying Multilogin*****************
+2021-04-07 14:40:24,225 - root - INFO - **************Multilogin test starts*****************
+2021-04-07 14:40:47,022 - root - INFO - *********Passed************
+2021-04-07 14:40:53,153 - root - INFO - *********Failed************
+2021-04-07 14:40:58,573 - root - INFO - *********Failed************
+2021-04-07 14:41:03,951 - root - INFO - *********Failed************
+2021-04-07 14:41:03,951 - root - INFO - *****Testcase_002 Multilogin is Failed****
+2021-04-07 14:42:45,672 - root - INFO - ************** Test-002-Verifying Multilogin*****************
+2021-04-07 14:42:45,673 - root - INFO - **************Multilogin test starts*****************
+2021-04-07 14:43:02,935 - root - INFO - *********Passed************
+2021-04-07 14:43:09,034 - root - INFO - *********Failed************
+2021-04-07 14:43:14,445 - root - INFO - *********Failed************
+2021-04-07 14:43:19,842 - root - INFO - *********Failed************
+2021-04-07 14:43:19,843 - root - INFO - *****Testcase_002 Multilogin is Failed****
+2021-04-07 14:55:00,370 - root - INFO - ************** Test-002-Verifying Multilogin*****************
+2021-04-07 14:55:00,371 - root - INFO - **************Multilogin test starts*****************
+2021-04-07 14:55:24,360 - root - INFO - *********Passed************
+2021-04-07 14:55:30,385 - root - INFO - *********Failed************
+2021-04-07 14:55:35,800 - root - INFO - *********Failed************
+2021-04-07 14:55:41,145 - root - INFO - *********Failed************
+2021-04-07 14:55:41,145 - root - INFO - *****Testcase_002 Multilogin is Failed****
+2021-04-07 14:57:04,687 - root - INFO - ************** Test-002-Verifying Multilogin*****************
+2021-04-07 14:57:04,687 - root - INFO - **************Multilogin test starts*****************
+2021-04-07 14:57:35,159 - root - INFO - *********Passed************
+2021-04-07 14:57:41,231 - root - INFO - *********Failed************
+2021-04-07 14:57:46,678 - root - INFO - *********Failed************
+2021-04-07 14:57:52,060 - root - INFO - *********Failed************
+2021-04-07 14:57:52,061 - root - INFO - *****Testcase_002 Multilogin is Failed****
+2021-04-07 15:33:11,535 - root - INFO - ************** Test-002-Verifying Multilogin*****************
+2021-04-07 15:33:11,535 - root - INFO - **************Multilogin test starts*****************
+2021-04-07 15:33:31,844 - root - INFO - *********Passed************
+2021-04-07 15:33:37,889 - root - INFO - *********Failed************
+2021-04-07 15:33:43,309 - root - INFO - *********Failed************
+2021-04-07 15:33:48,695 - root - INFO - *********Failed************
+2021-04-07 15:33:48,696 - root - INFO - *****Testcase_002 Multilogin is Failed****
+2021-04-07 15:39:24,999 - root - INFO - ************** Test-002-Verifying Multilogin*****************
+2021-04-07 15:39:25,026 - root - INFO - **************Multilogin test starts*****************
+2021-04-07 15:39:36,033 - root - INFO - *****Passed********
+2021-04-07 15:39:36,033 - root - INFO - *********Passed************
+2021-04-07 15:39:42,119 - root - INFO - *****Passed********
+2021-04-07 15:39:42,119 - root - INFO - *********Failed************
+2021-04-07 15:39:47,505 - root - INFO - *****Passed********
+2021-04-07 15:39:47,505 - root - INFO - *********Failed************
+2021-04-07 15:39:52,887 - root - INFO - *****Passed********
+2021-04-07 15:39:52,888 - root - INFO - *********Failed************
+2021-04-07 15:39:52,888 - root - INFO - *****Testcase_002 Multilogin is passed****
+2021-04-07 15:39:53,108 - root - INFO - *****End of Multilogin Testcase_002 *******
+2021-04-07 15:39:53,108 - root - INFO - *****Testcase_002 is completed*******
+2021-04-07 15:43:18,138 - root - INFO - ************** Test-002-Verifying Multilogin*****************
+2021-04-07 15:43:18,138 - root - INFO - **************Multilogin test starts*****************
+2021-04-07 15:43:29,314 - root - INFO - *********Failed************
+2021-04-07 15:46:22,193 - root - INFO - ************** Test-002-Verifying Multilogin*****************
+2021-04-07 15:46:22,194 - root - INFO - **************Multilogin test starts*****************
+2021-04-07 15:46:44,233 - root - INFO - *****Passed********
+2021-04-07 15:46:44,234 - root - INFO - *********Passed************
+2021-04-07 15:46:50,316 - root - INFO - *****Passed********
+2021-04-07 15:46:50,317 - root - INFO - *********Failed************
+2021-04-07 15:46:55,755 - root - INFO - *****Passed********
+2021-04-07 15:46:55,756 - root - INFO - *********Failed************
+2021-04-07 15:47:01,151 - root - INFO - *****Passed********
+2021-04-07 15:47:01,151 - root - INFO - *********Failed************
+2021-04-07 15:47:01,152 - root - INFO - *****Testcase_002 Multilogin is passed****
+2021-04-07 15:47:01,262 - root - INFO - *****End of Multilogin Testcase_002 *******
+2021-04-07 15:47:01,262 - root - INFO - *****Testcase_002 is completed*******
+2021-04-07 15:49:12,136 - root - INFO - ************** Test-002-Verifying Multilogin*****************
+2021-04-07 15:49:12,137 - root - INFO - **************Multilogin test starts*****************
+2021-04-07 15:49:22,264 - root - INFO - *****Passed********
+2021-04-07 15:49:22,264 - root - INFO - *********Passed************
+2021-04-07 15:49:28,317 - root - INFO - *****Passed********
+2021-04-07 15:49:28,317 - root - INFO - *********Failed************
+2021-04-07 15:49:33,793 - root - INFO - *****Passed********
+2021-04-07 15:49:33,793 - root - INFO - *********Failed************
+2021-04-07 15:49:39,173 - root - INFO - *****Passed********
+2021-04-07 15:49:39,174 - root - INFO - *********Failed************
+2021-04-07 15:49:44,606 - root - INFO - *****Passed********
+2021-04-07 15:49:44,606 - root - INFO - *********Passed************
+2021-04-07 15:49:45,161 - root - INFO - *****Testcase_002 Multilogin is passed****
+2021-04-07 15:49:45,238 - root - INFO - *****End of Multilogin Testcase_002 *******
+2021-04-07 15:49:45,238 - root - INFO - *****Testcase_002 is completed*******
+2021-04-07 15:52:20,742 - root - INFO - ************** Test-002-Verifying Multilogin*****************
+2021-04-07 15:52:20,742 - root - INFO - **************Multilogin test starts*****************
+2021-04-07 15:52:36,005 - root - INFO - *****Passed********
+2021-04-07 15:52:36,006 - root - INFO - *********Passed************
+2021-04-07 15:52:42,193 - root - INFO - *****Passed********
+2021-04-07 15:52:42,194 - root - INFO - *********Failed************
+2021-04-07 15:52:47,629 - root - INFO - *****Passed********
+2021-04-07 15:52:47,630 - root - INFO - *********Failed************
+2021-04-07 15:52:53,018 - root - INFO - *****Passed********
+2021-04-07 15:52:53,019 - root - INFO - *********Failed************
+2021-04-07 15:52:58,526 - root - INFO - *****Passed********
+2021-04-07 15:52:58,527 - root - INFO - *********Passed************
+2021-04-07 15:52:59,085 - root - INFO - *****Testcase_002 Multilogin is passed****
+2021-04-07 15:52:59,213 - root - INFO - *****End of Multilogin Testcase_002 *******
+2021-04-07 15:52:59,213 - root - INFO - *****Testcase_002 is completed*******
+2021-04-07 15:53:32,792 - root - INFO - ************** Test-002-Verifying Multilogin*****************
+2021-04-07 15:53:32,793 - root - INFO - **************Multilogin test starts*****************
+2021-04-07 15:53:47,857 - root - INFO - *****Passed********
+2021-04-07 15:53:47,857 - root - INFO - *********Passed************
+2021-04-07 15:53:53,915 - root - INFO - *****Passed********
+2021-04-07 15:53:53,915 - root - INFO - *********Failed************
+2021-04-07 15:53:59,342 - root - INFO - *****Passed********
+2021-04-07 15:53:59,342 - root - INFO - *********Failed************
+2021-04-07 15:54:04,741 - root - INFO - *****Passed********
+2021-04-07 15:54:04,741 - root - INFO - *********Failed************
+2021-04-07 15:54:10,191 - root - INFO - *****Passed********
+2021-04-07 15:54:10,192 - root - INFO - *********Passed************
+2021-04-07 15:54:10,693 - root - INFO - *****Testcase_002 Multilogin is passed****
+2021-04-07 15:54:10,867 - root - INFO - *****End of Multilogin Testcase_002 *******
+2021-04-07 15:54:10,867 - root - INFO - *****Testcase_002 is completed*******
+2021-04-07 15:57:34,107 - root - INFO - ************** Test-002-Verifying Multilogin*****************
+2021-04-07 15:57:34,107 - root - INFO - **************Multilogin test starts*****************
+2021-04-07 15:57:45,248 - root - INFO - *****Passed********
+2021-04-07 15:57:45,248 - root - INFO - *********Passed************
+2021-04-07 15:57:51,455 - root - INFO - *****Passed********
+2021-04-07 15:57:51,456 - root - INFO - *********Failed************
+2021-04-07 15:57:56,878 - root - INFO - *****Passed********
+2021-04-07 15:57:56,879 - root - INFO - *********Failed************
+2021-04-07 15:58:02,258 - root - INFO - *****Passed********
+2021-04-07 15:58:02,259 - root - INFO - *********Failed************
+2021-04-07 15:58:07,740 - root - INFO - *****Passed********
+2021-04-07 15:58:07,740 - root - INFO - *********Passed************
+2021-04-07 15:58:08,336 - root - INFO - *****Testcase_002 Multilogin is passed****
+2021-04-07 15:58:08,526 - root - INFO - *****End of Multilogin Testcase_002 *******
+2021-04-07 15:58:08,527 - root - INFO - *****Testcase_002 is completed*******
+2021-04-07 16:01:50,876 - root - INFO - **************Test001_Login***********
+2021-04-07 16:01:50,877 - root - INFO - **************Verifying Homepage Title*****************
+2021-04-07 16:02:00,155 - root - INFO - **************Homepage Title is passed*****************
+2021-04-07 16:02:01,600 - root - INFO - **************Verifying Login Title*****************
+2021-04-07 16:02:07,066 - root - INFO - **************Login Title is passed*****************
+2021-04-07 16:04:29,920 - root - INFO - **************Test001_Login***********
+2021-04-07 16:04:29,921 - root - INFO - **************Verifying Homepage Title*****************
+2021-04-07 16:04:39,332 - root - INFO - **************Homepage Title is passed*****************
+2021-04-07 16:04:40,945 - root - INFO - **************Verifying Login Title*****************
+2021-04-07 16:04:47,855 - root - ERROR - **************Login Title is failed*****************
+2021-04-07 16:06:10,310 - root - INFO - ************** Test-002-Verifying Multilogin*****************
+2021-04-07 16:06:10,311 - root - INFO - **************Multilogin test starts*****************
+2021-04-07 16:06:23,413 - root - INFO - *****Passed********
+2021-04-07 16:06:23,413 - root - INFO - *********Passed************
+2021-04-07 16:06:29,525 - root - INFO - *****Passed********
+2021-04-07 16:06:29,525 - root - INFO - *********Failed************
+2021-04-07 16:06:34,929 - root - INFO - *****Passed********
+2021-04-07 16:06:34,929 - root - INFO - *********Failed************
+2021-04-07 16:06:40,310 - root - INFO - *****Passed********
+2021-04-07 16:06:40,310 - root - INFO - *********Failed************
+2021-04-07 16:06:45,747 - root - INFO - *****Passed********
+2021-04-07 16:06:45,747 - root - INFO - *********Passed************
+2021-04-07 16:06:46,295 - root - INFO - *****Testcase_002 Multilogin is passed****
+2021-04-07 16:06:46,442 - root - INFO - *****End of Multilogin Testcase_002 *******
+2021-04-07 16:06:46,443 - root - INFO - *****Testcase_002 is completed*******
+2021-04-08 12:07:06,742 - root - INFO - **************Test001_Login***********
+2021-04-08 12:07:06,782 - root - INFO - **************Verifying Homepage Title*****************
+2021-04-08 12:08:42,283 - root - INFO - **************Homepage Title is passed*****************
+2021-04-08 12:08:43,947 - root - INFO - **************Verifying Login Title*****************
+2021-04-08 12:09:18,858 - root - INFO - **************Login Title is passed*****************
+2021-04-09 15:25:10,095 - root - INFO - **************Test003_begins*****************
+2021-04-09 15:27:07,924 - root - INFO - **************Test003_begins*****************
+2021-04-09 15:44:50,016 - root - INFO - **************Test003_begins*****************
+2021-04-09 15:53:06,820 - root - INFO - **************Test003_begins*****************
+2021-04-09 16:57:23,503 - root - INFO - **************Test003_begins*****************
+2021-04-09 16:57:45,916 - root - INFO - **************New customer has been added*****************
+2021-04-09 16:58:57,262 - root - INFO - **************Test003_begins*****************
+2021-04-09 16:59:19,033 - root - INFO - **************New customer has been added*****************
+2021-04-09 17:06:26,674 - root - INFO - **************Test003_begins*****************
+2021-04-09 17:06:48,919 - root - INFO - **************New customer has been added*****************
+2021-04-09 17:15:27,133 - root - INFO - **************Test003_begins*****************
+2021-04-09 17:16:00,244 - root - INFO - **************New customer has been added*****************
+2021-04-09 17:17:08,950 - root - INFO - **************Test003_begins*****************
+2021-04-09 17:17:49,434 - root - INFO - **************New customer has been added*****************
+2021-04-09 18:26:22,218 - root - INFO - **************Test003_begins*****************
+2021-04-09 18:27:53,930 - root - INFO - **************New customer has been added*****************
+2021-04-09 18:29:04,780 - root - INFO - **************Test003_begins*****************
+2021-04-09 18:30:12,843 - root - INFO - **************New customer has been added*****************
+2021-04-09 18:30:13,999 - root - ERROR - **************Adding customer is failed*****************
+2021-04-09 18:32:36,651 - root - INFO - **************Test003_begins*****************
+2021-04-09 18:33:24,162 - root - INFO - **************New customer has been added*****************
+2021-04-09 18:33:24,894 - root - ERROR - **************Adding customer is failed*****************
+2021-04-09 18:36:00,053 - root - INFO - **************Test003_begins*****************
+2021-04-09 18:36:44,025 - root - INFO - **************New customer has been added*****************
+2021-04-09 18:36:44,761 - root - ERROR - **************Adding customer is failed*****************
+2021-04-09 19:05:35,562 - root - INFO - **************Test003_begins*****************
+2021-04-09 19:06:23,342 - root - INFO - **************New customer has been added*****************
+2021-04-09 19:06:26,375 - root - INFO - **************customer has been added successfully*****************
+2021-04-09 19:06:26,530 - root - INFO - **************End of Add Customer Testcase*****************
+2021-04-09 19:11:55,415 - root - INFO - **************Test003_begins*****************
+2021-04-09 19:13:01,152 - root - INFO - **************New customer has been added*****************
+2021-04-09 19:13:04,198 - root - INFO - **************customer has been added successfully*****************
+2021-04-09 19:13:11,005 - root - INFO - **************End of Add Customer Testcase*****************
+2021-05-20 13:47:59,107 - root - INFO - ************** Test-002-Verifying Multilogin*****************
+2021-05-20 13:47:59,187 - root - INFO - **************Multilogin test starts*****************
+2021-05-20 13:48:08,936 - root - INFO - *****Passed********
+2021-05-20 13:48:08,937 - root - INFO - *********Passed************
+2021-05-20 13:48:14,992 - root - INFO - *****Passed********
+2021-05-20 13:48:14,993 - root - INFO - *********Failed************
+2021-05-20 13:48:20,447 - root - INFO - *****Passed********
+2021-05-20 13:48:20,447 - root - INFO - *********Failed************
+2021-05-20 13:48:25,907 - root - INFO - *****Passed********
+2021-05-20 13:48:25,907 - root - INFO - *********Failed************
+2021-05-20 13:48:31,347 - root - INFO - *****Passed********
+2021-05-20 13:48:31,348 - root - INFO - *********Passed************
+2021-05-20 13:48:31,893 - root - INFO - *****Testcase_002 Multilogin is passed****
+2021-05-20 13:48:32,120 - root - INFO - *****End of Multilogin Testcase_002 *******
+2021-05-20 13:48:32,120 - root - INFO - *****Testcase_002 is completed*******
+2021-05-20 13:57:38,379 - root - INFO - **************Test001_Login***********
+2021-05-20 13:57:38,379 - root - INFO - **************Test001_Login***********
+2021-05-20 13:57:38,379 - root - INFO - **************Test001_Login***********
+2021-05-20 13:57:38,380 - root - INFO - **************Verifying Homepage Title*****************
+2021-05-20 13:57:38,380 - root - INFO - **************Verifying Homepage Title*****************
+2021-05-20 13:57:38,380 - root - INFO - **************Verifying Homepage Title*****************
+2021-05-20 13:57:43,045 - root - INFO - **************Homepage Title is passed*****************
+2021-05-20 13:57:43,045 - root - INFO - **************Homepage Title is passed*****************
+2021-05-20 13:57:43,045 - root - INFO - **************Homepage Title is passed*****************
+2021-05-20 13:57:44,999 - root - INFO - **************Verifying Login Title*****************
+2021-05-20 13:57:44,999 - root - INFO - **************Verifying Login Title*****************
+2021-05-20 13:57:44,999 - root - INFO - **************Verifying Login Title*****************
+2021-05-20 13:57:50,871 - root - INFO - **************Login Title is passed*****************
+2021-05-20 13:57:50,871 - root - INFO - **************Login Title is passed*****************
+2021-05-20 13:57:50,871 - root - INFO - **************Login Title is passed*****************
+2021-05-20 14:01:20,673 - root - INFO - **************Verifying Login Title*****************
+2021-05-20 14:01:20,673 - root - INFO - **************Verifying Login Title*****************
+2021-05-20 14:01:20,673 - root - INFO - **************Verifying Login Title*****************
+2021-05-20 14:01:26,121 - root - INFO - **************Login Title is passed*****************
+2021-05-20 14:01:26,121 - root - INFO - **************Login Title is passed*****************
+2021-05-20 14:01:26,121 - root - INFO - **************Login Title is passed*****************
+2021-05-20 14:01:27,822 - root - INFO - ************** Test-002-Verifying Multilogin*****************
+2021-05-20 14:01:27,822 - root - INFO - ************** Test-002-Verifying Multilogin*****************
+2021-05-20 14:01:27,822 - root - INFO - ************** Test-002-Verifying Multilogin*****************
+2021-05-20 14:01:27,823 - root - INFO - **************Multilogin test starts*****************
+2021-05-20 14:01:27,823 - root - INFO - **************Multilogin test starts*****************
+2021-05-20 14:01:27,823 - root - INFO - **************Multilogin test starts*****************
+2021-05-20 14:01:50,249 - root - INFO - *****Passed********
+2021-05-20 14:01:50,249 - root - INFO - *****Passed********
+2021-05-20 14:01:50,249 - root - INFO - *****Passed********
+2021-05-20 14:01:50,249 - root - INFO - *********Passed************
+2021-05-20 14:01:50,249 - root - INFO - *********Passed************
+2021-05-20 14:01:50,249 - root - INFO - *********Passed************
+2021-05-20 14:01:56,264 - root - INFO - *****Passed********
+2021-05-20 14:01:56,264 - root - INFO - *****Passed********
+2021-05-20 14:01:56,264 - root - INFO - *****Passed********
+2021-05-20 14:01:56,265 - root - INFO - *********Failed************
+2021-05-20 14:01:56,265 - root - INFO - *********Failed************
+2021-05-20 14:01:56,265 - root - INFO - *********Failed************
+2021-05-20 14:02:01,648 - root - INFO - *****Passed********
+2021-05-20 14:02:01,648 - root - INFO - *****Passed********
+2021-05-20 14:02:01,648 - root - INFO - *****Passed********
+2021-05-20 14:02:01,649 - root - INFO - *********Failed************
+2021-05-20 14:02:01,649 - root - INFO - *********Failed************
+2021-05-20 14:02:01,649 - root - INFO - *********Failed************
+2021-05-20 14:02:07,006 - root - INFO - *****Passed********
+2021-05-20 14:02:07,006 - root - INFO - *****Passed********
+2021-05-20 14:02:07,006 - root - INFO - *****Passed********
+2021-05-20 14:02:07,007 - root - INFO - *********Failed************
+2021-05-20 14:02:07,007 - root - INFO - *********Failed************
+2021-05-20 14:02:07,007 - root - INFO - *********Failed************
+2021-05-20 14:02:12,447 - root - INFO - *****Passed********
+2021-05-20 14:02:12,447 - root - INFO - *****Passed********
+2021-05-20 14:02:12,447 - root - INFO - *****Passed********
+2021-05-20 14:02:12,448 - root - INFO - *********Passed************
+2021-05-20 14:02:12,448 - root - INFO - *********Passed************
+2021-05-20 14:02:12,448 - root - INFO - *********Passed************
+2021-05-20 14:02:12,949 - root - INFO - *****Testcase_002 Multilogin is passed****
+2021-05-20 14:02:12,949 - root - INFO - *****Testcase_002 Multilogin is passed****
+2021-05-20 14:02:12,949 - root - INFO - *****Testcase_002 Multilogin is passed****
+2021-05-20 14:02:17,036 - root - INFO - *****End of Multilogin Testcase_002 *******
+2021-05-20 14:02:17,036 - root - INFO - *****End of Multilogin Testcase_002 *******
+2021-05-20 14:02:17,036 - root - INFO - *****End of Multilogin Testcase_002 *******
+2021-05-20 14:02:17,036 - root - INFO - *****Testcase_002 is completed*******
+2021-05-20 14:02:17,036 - root - INFO - *****Testcase_002 is completed*******
+2021-05-20 14:02:17,036 - root - INFO - *****Testcase_002 is completed*******
+2021-05-20 14:02:18,688 - root - INFO - **************Test003_begins*****************
+2021-05-20 14:02:18,688 - root - INFO - **************Test003_begins*****************
+2021-05-20 14:02:18,688 - root - INFO - **************Test003_begins*****************
+2021-05-20 14:02:45,483 - root - INFO - **************New customer has been added*****************
+2021-05-20 14:02:45,483 - root - INFO - **************New customer has been added*****************
+2021-05-20 14:02:45,483 - root - INFO - **************New customer has been added*****************
+2021-05-20 14:02:48,521 - root - INFO - **************customer has been added successfully*****************
+2021-05-20 14:02:48,521 - root - INFO - **************customer has been added successfully*****************
+2021-05-20 14:02:48,521 - root - INFO - **************customer has been added successfully*****************
+2021-05-20 14:02:51,155 - root - INFO - **************End of Add Customer Testcase*****************
+2021-05-20 14:02:51,155 - root - INFO - **************End of Add Customer Testcase*****************
+2021-05-20 14:02:51,155 - root - INFO - **************End of Add Customer Testcase*****************
+2021-05-20 14:04:23,424 - root - INFO - ************** Test-002-Verifying Multilogin*****************
+2021-05-20 14:04:23,460 - root - INFO - **************Multilogin test starts*****************
+2021-05-20 14:04:39,562 - root - INFO - *****Passed********
+2021-05-20 14:04:39,562 - root - INFO - *********Passed************
+2021-05-20 14:04:45,622 - root - INFO - *****Passed********
+2021-05-20 14:04:45,622 - root - INFO - *********Failed************
+2021-05-20 14:04:51,024 - root - INFO - *****Passed********
+2021-05-20 14:04:51,025 - root - INFO - *********Failed************
+2021-05-20 14:04:56,367 - root - INFO - *****Passed********
+2021-05-20 14:04:56,367 - root - INFO - *********Failed************
+2021-05-20 14:05:01,762 - root - INFO - *****Passed********
+2021-05-20 14:05:01,762 - root - INFO - *********Passed************
+2021-05-20 14:05:02,282 - root - INFO - *****Testcase_002 Multilogin is passed****
+2021-05-20 14:05:02,394 - root - INFO - *****End of Multilogin Testcase_002 *******
+2021-05-20 14:05:02,395 - root - INFO - *****Testcase_002 is completed*******
+2021-05-20 14:05:28,399 - root - INFO - ************** Test-002-Verifying Multilogin*****************
+2021-05-20 14:05:28,399 - root - INFO - **************Multilogin test starts*****************
+2021-05-20 14:05:44,235 - root - INFO - *****Passed********
+2021-05-20 14:05:44,236 - root - INFO - *********Passed************
+2021-05-20 14:05:50,269 - root - INFO - *****Passed********
+2021-05-20 14:05:50,269 - root - INFO - *********Failed************
+2021-05-20 14:05:55,671 - root - INFO - *****Passed********
+2021-05-20 14:05:55,671 - root - INFO - *********Failed************
+2021-05-20 14:06:01,056 - root - INFO - *****Passed********
+2021-05-20 14:06:01,057 - root - INFO - *********Failed************
+2021-05-20 14:06:06,483 - root - INFO - *****Passed********
+2021-05-20 14:06:06,484 - root - INFO - *********Passed************
+2021-05-20 14:06:07,040 - root - INFO - *****Testcase_002 Multilogin is passed****
+2021-05-20 14:06:07,173 - root - INFO - *****End of Multilogin Testcase_002 *******
+2021-05-20 14:06:07,173 - root - INFO - *****Testcase_002 is completed*******
+2021-05-20 14:18:58,803 - root - INFO - **************Verifying Login Title*****************
+2021-05-20 14:18:58,803 - root - INFO - **************Verifying Login Title*****************
+2021-05-20 14:18:58,803 - root - INFO - **************Verifying Login Title*****************
+2021-05-20 14:19:10,501 - root - INFO - **************Login Title is passed*****************
+2021-05-20 14:19:10,501 - root - INFO - **************Login Title is passed*****************
+2021-05-20 14:19:10,501 - root - INFO - **************Login Title is passed*****************
+2021-05-20 14:19:12,095 - root - INFO - **************Test003_begins*****************
+2021-05-20 14:19:12,095 - root - INFO - **************Test003_begins*****************
+2021-05-20 14:19:12,095 - root - INFO - **************Test003_begins*****************
+2021-05-20 14:19:39,932 - root - INFO - **************New customer has been added*****************
+2021-05-20 14:19:39,932 - root - INFO - **************New customer has been added*****************
+2021-05-20 14:19:39,932 - root - INFO - **************New customer has been added*****************
+2021-05-20 14:19:42,970 - root - INFO - **************customer has been added successfully*****************
+2021-05-20 14:19:42,970 - root - INFO - **************customer has been added successfully*****************
+2021-05-20 14:19:42,970 - root - INFO - **************customer has been added successfully*****************
+2021-05-20 14:19:45,618 - root - INFO - **************End of Add Customer Testcase*****************
+2021-05-20 14:19:45,618 - root - INFO - **************End of Add Customer Testcase*****************
+2021-05-20 14:19:45,618 - root - INFO - **************End of Add Customer Testcase*****************
+2021-05-20 14:21:18,163 - root - INFO - **************Verifying Login Title*****************
+2021-05-20 14:21:18,163 - root - INFO - **************Verifying Login Title*****************
+2021-05-20 14:21:18,163 - root - INFO - **************Verifying Login Title*****************
+2021-05-20 14:21:32,795 - root - INFO - **************Login Title is passed*****************
+2021-05-20 14:21:32,795 - root - INFO - **************Login Title is passed*****************
+2021-05-20 14:21:32,795 - root - INFO - **************Login Title is passed*****************
+2021-05-20 14:21:34,238 - root - INFO - **************Test003_begins*****************
+2021-05-20 14:21:34,238 - root - INFO - **************Test003_begins*****************
+2021-05-20 14:21:34,238 - root - INFO - **************Test003_begins*****************
+2021-05-20 14:22:01,306 - root - INFO - **************New customer has been added*****************
+2021-05-20 14:22:01,306 - root - INFO - **************New customer has been added*****************
+2021-05-20 14:22:01,306 - root - INFO - **************New customer has been added*****************
+2021-05-20 14:22:04,334 - root - INFO - **************customer has been added successfully*****************
+2021-05-20 14:22:04,334 - root - INFO - **************customer has been added successfully*****************
+2021-05-20 14:22:04,334 - root - INFO - **************customer has been added successfully*****************
+2021-05-20 14:22:10,950 - root - INFO - **************End of Add Customer Testcase*****************
+2021-05-20 14:22:10,950 - root - INFO - **************End of Add Customer Testcase*****************
+2021-05-20 14:22:10,950 - root - INFO - **************End of Add Customer Testcase*****************
+2021-05-20 14:32:56,310 - root - INFO - **************Verifying Login Title*****************
+2021-05-20 14:32:56,310 - root - INFO - **************Verifying Login Title*****************
+2021-05-20 14:32:56,310 - root - INFO - **************Verifying Login Title*****************
+2021-05-20 14:33:07,510 - root - INFO - **************Login Title is passed*****************
+2021-05-20 14:33:07,510 - root - INFO - **************Login Title is passed*****************
+2021-05-20 14:33:07,510 - root - INFO - **************Login Title is passed*****************
+2021-05-20 14:36:55,734 - root - INFO - **************Test001_Login***********
+2021-05-20 14:36:55,734 - root - INFO - **************Verifying Homepage Title*****************
+2021-05-20 14:37:05,913 - root - INFO - **************Homepage Title is passed*****************
+2021-05-20 14:37:07,334 - root - INFO - **************Verifying Login Title*****************
+2021-05-20 14:37:17,976 - root - INFO - **************Login Title is passed*****************
+2021-05-20 14:40:43,699 - root - INFO - **************Test001_Login***********
+2021-05-20 14:40:43,700 - root - INFO - **************Verifying Homepage Title*****************
+2021-05-20 14:40:54,405 - root - INFO - **************Homepage Title is passed*****************
+2021-05-20 14:40:55,890 - root - INFO - **************Verifying Login Title*****************
+2021-05-20 14:41:07,062 - root - INFO - **************Login Title is passed*****************
+2021-05-20 14:43:43,254 - root - INFO - **************Test001_Login***********
+2021-05-20 14:43:43,307 - root - INFO - **************Verifying Homepage Title*****************
+2021-05-20 14:43:53,441 - root - INFO - **************Homepage Title is passed*****************
+2021-05-20 14:43:54,853 - root - INFO - **************Verifying Login Title*****************
+2021-05-20 14:44:07,548 - root - INFO - **************Login Title is passed*****************
+2021-05-20 14:45:35,291 - root - INFO - **************Test001_Login***********
+2021-05-20 14:45:35,347 - root - INFO - **************Verifying Homepage Title*****************
+2021-05-20 14:45:45,705 - root - INFO - **************Homepage Title is passed*****************
+2021-05-20 14:45:47,240 - root - INFO - **************Verifying Login Title*****************
+2021-05-20 14:45:54,248 - root - INFO - **************Login Title is passed*****************
+2021-05-20 14:50:17,618 - root - INFO - **************Test001_Login***********
+2021-05-20 14:50:17,618 - root - INFO - **************Verifying Homepage Title*****************
+2021-05-20 14:50:23,668 - root - INFO - **************Homepage Title is passed*****************
+2021-05-20 14:50:25,271 - root - INFO - **************Verifying Login Title*****************
+2021-05-20 14:50:31,356 - root - INFO - **************Login Title is passed*****************
+2021-05-20 14:55:12,037 - root - INFO - **************Test001_Login***********
+2021-05-20 14:55:12,037 - root - INFO - **************Verifying Homepage Title*****************
+2021-05-20 14:55:16,836 - root - INFO - **************Homepage Title is passed*****************
+2021-05-20 14:55:18,486 - root - INFO - **************Verifying Login Title*****************
+2021-05-20 14:55:24,917 - root - INFO - **************Login Title is passed*****************
+2021-05-20 15:38:44,510 - root - INFO - **************Test001_Login***********
+2021-05-20 15:38:44,510 - root - INFO - **************Test001_Login***********
+2021-05-20 15:38:44,510 - root - INFO - **************Test001_Login***********
+2021-05-20 15:38:44,511 - root - INFO - **************Verifying Homepage Title*****************
+2021-05-20 15:38:44,511 - root - INFO - **************Verifying Homepage Title*****************
+2021-05-20 15:38:44,511 - root - INFO - **************Verifying Homepage Title*****************
+2021-05-20 15:38:50,161 - root - INFO - **************Homepage Title is passed*****************
+2021-05-20 15:38:50,161 - root - INFO - **************Homepage Title is passed*****************
+2021-05-20 15:38:50,161 - root - INFO - **************Homepage Title is passed*****************
+2021-05-20 15:38:51,549 - root - INFO - **************Verifying Login Title*****************
+2021-05-20 15:38:51,549 - root - INFO - **************Verifying Login Title*****************
+2021-05-20 15:38:51,549 - root - INFO - **************Verifying Login Title*****************
+2021-05-20 15:38:57,840 - root - INFO - **************Login Title is passed*****************
+2021-05-20 15:38:57,840 - root - INFO - **************Login Title is passed*****************
+2021-05-20 15:38:57,840 - root - INFO - **************Login Title is passed*****************
+2021-05-31 18:03:20,851 - root - INFO - **************Test001_Login***********
+2021-05-31 18:03:20,851 - root - INFO - **************Test001_Login***********
+2021-05-31 18:03:20,851 - root - INFO - **************Test001_Login***********
+2021-05-31 18:03:21,056 - root - INFO - **************Verifying Homepage Title*****************
+2021-05-31 18:03:21,056 - root - INFO - **************Verifying Homepage Title*****************
+2021-05-31 18:03:21,056 - root - INFO - **************Verifying Homepage Title*****************
+2021-05-31 18:03:23,026 - root - INFO - **************Verifying Login Title*****************
+2021-05-31 18:03:23,026 - root - INFO - **************Verifying Login Title*****************
+2021-05-31 18:03:23,026 - root - INFO - **************Verifying Login Title*****************
+2021-05-31 18:06:05,345 - root - INFO - **************Test001_Login***********
+2021-05-31 18:06:05,345 - root - INFO - **************Verifying Homepage Title*****************
+2021-05-31 18:06:05,478 - root - INFO - **************Verifying Login Title*****************
+2021-05-31 18:07:58,039 - root - INFO - **************Test001_Login***********
+2021-05-31 18:07:58,040 - root - INFO - **************Verifying Homepage Title*****************
+2021-05-31 18:07:58,169 - root - INFO - **************Verifying Login Title*****************
+2021-05-31 18:08:36,497 - root - INFO - **************Test001_Login***********
+2021-05-31 18:08:36,497 - root - INFO - **************Verifying Homepage Title*****************
+2021-05-31 18:08:38,341 - root - INFO - **************Verifying Login Title*****************
+2021-05-31 18:09:17,433 - root - INFO - **************Test001_Login***********
+2021-05-31 18:09:17,433 - root - INFO - **************Verifying Homepage Title*****************
+2021-05-31 18:09:17,555 - root - INFO - **************Verifying Login Title*****************
+2021-05-31 18:09:22,416 - root - INFO - **************Test001_Login***********
+2021-05-31 18:09:22,416 - root - INFO - **************Verifying Homepage Title*****************
+2021-05-31 18:09:22,554 - root - INFO - **************Verifying Login Title*****************
+2021-05-31 18:10:17,364 - root - INFO - **************Test001_Login***********
+2021-05-31 18:10:17,364 - root - INFO - **************Verifying Homepage Title*****************
+2021-05-31 18:10:24,697 - root - INFO - **************Homepage Title is passed*****************
+2021-05-31 18:10:26,583 - root - INFO - **************Verifying Login Title*****************
+2021-05-31 18:10:34,604 - root - INFO - **************Login Title is passed*****************
+2021-05-31 18:13:48,132 - root - INFO - **************Test001_Login***********
+2021-05-31 18:13:48,132 - root - INFO - **************Verifying Homepage Title*****************
+2021-05-31 18:13:48,302 - root - INFO - **************Verifying Login Title*****************
+2021-05-31 18:14:30,381 - root - INFO - **************Test001_Login***********
+2021-05-31 18:14:30,381 - root - INFO - **************Verifying Homepage Title*****************
+2021-05-31 18:14:30,512 - root - INFO - **************Verifying Login Title*****************
+2021-05-31 18:14:57,515 - root - INFO - **************Test001_Login***********
+2021-05-31 18:14:57,515 - root - INFO - **************Verifying Homepage Title*****************
+2021-05-31 18:14:57,684 - root - INFO - **************Verifying Login Title*****************
+2021-05-31 18:17:08,306 - root - INFO - **************Test001_Login***********
+2021-05-31 18:17:08,410 - root - INFO - **************Verifying Homepage Title*****************
+2021-05-31 18:17:15,446 - root - INFO - **************Homepage Title is passed*****************
+2021-05-31 18:17:17,166 - root - INFO - **************Verifying Login Title*****************
+2021-05-31 18:17:24,817 - root - INFO - **************Login Title is passed*****************
+2021-05-31 18:22:37,913 - root - INFO - **************Verifying Login Title*****************
+2021-05-31 18:22:37,913 - root - INFO - **************Verifying Login Title*****************
+2021-05-31 18:22:37,913 - root - INFO - **************Verifying Login Title*****************
+2021-05-31 18:22:45,569 - root - INFO - **************Login Title is passed*****************
+2021-05-31 18:22:45,569 - root - INFO - **************Login Title is passed*****************
+2021-05-31 18:22:45,569 - root - INFO - **************Login Title is passed*****************
+2021-05-31 18:24:15,358 - root - INFO - **************Verifying Login Title*****************
+2021-05-31 18:24:15,358 - root - INFO - **************Verifying Login Title*****************
+2021-05-31 18:24:15,358 - root - INFO - **************Verifying Login Title*****************
+2021-05-31 18:24:22,336 - root - INFO - **************Login Title is passed*****************
+2021-05-31 18:24:22,336 - root - INFO - **************Login Title is passed*****************
+2021-05-31 18:24:22,336 - root - INFO - **************Login Title is passed*****************
+2021-05-31 18:24:24,066 - root - INFO - ************** Test-002-Verifying Multilogin*****************
+2021-05-31 18:24:24,066 - root - INFO - ************** Test-002-Verifying Multilogin*****************
+2021-05-31 18:24:24,066 - root - INFO - ************** Test-002-Verifying Multilogin*****************
+2021-05-31 18:24:24,091 - root - INFO - **************Multilogin test starts*****************
+2021-05-31 18:24:24,091 - root - INFO - **************Multilogin test starts*****************
+2021-05-31 18:24:24,091 - root - INFO - **************Multilogin test starts*****************
+2021-05-31 18:24:37,197 - root - INFO - *****Passed********
+2021-05-31 18:24:37,197 - root - INFO - *****Passed********
+2021-05-31 18:24:37,197 - root - INFO - *****Passed********
+2021-05-31 18:24:37,198 - root - INFO - *********Passed************
+2021-05-31 18:24:37,198 - root - INFO - *********Passed************
+2021-05-31 18:24:37,198 - root - INFO - *********Passed************
+2021-05-31 18:24:43,390 - root - INFO - *****Passed********
+2021-05-31 18:24:43,390 - root - INFO - *****Passed********
+2021-05-31 18:24:43,390 - root - INFO - *****Passed********
+2021-05-31 18:24:43,391 - root - INFO - *********Failed************
+2021-05-31 18:24:43,391 - root - INFO - *********Failed************
+2021-05-31 18:24:43,391 - root - INFO - *********Failed************
+2021-05-31 18:24:48,839 - root - INFO - *****Passed********
+2021-05-31 18:24:48,839 - root - INFO - *****Passed********
+2021-05-31 18:24:48,839 - root - INFO - *****Passed********
+2021-05-31 18:24:48,840 - root - INFO - *********Failed************
+2021-05-31 18:24:48,840 - root - INFO - *********Failed************
+2021-05-31 18:24:48,840 - root - INFO - *********Failed************
+2021-05-31 18:24:54,223 - root - INFO - *****Passed********
+2021-05-31 18:24:54,223 - root - INFO - *****Passed********
+2021-05-31 18:24:54,223 - root - INFO - *****Passed********
+2021-05-31 18:24:54,223 - root - INFO - *********Failed************
+2021-05-31 18:24:54,223 - root - INFO - *********Failed************
+2021-05-31 18:24:54,223 - root - INFO - *********Failed************
+2021-05-31 18:24:59,656 - root - INFO - *****Passed********
+2021-05-31 18:24:59,656 - root - INFO - *****Passed********
+2021-05-31 18:24:59,656 - root - INFO - *****Passed********
+2021-05-31 18:24:59,656 - root - INFO - *********Passed************
+2021-05-31 18:24:59,656 - root - INFO - *********Passed************
+2021-05-31 18:24:59,656 - root - INFO - *********Passed************
+2021-05-31 18:25:00,228 - root - INFO - *****Testcase_002 Multilogin is passed****
+2021-05-31 18:25:00,228 - root - INFO - *****Testcase_002 Multilogin is passed****
+2021-05-31 18:25:00,228 - root - INFO - *****Testcase_002 Multilogin is passed****
+2021-05-31 18:25:04,555 - root - INFO - *****End of Multilogin Testcase_002 *******
+2021-05-31 18:25:04,555 - root - INFO - *****End of Multilogin Testcase_002 *******
+2021-05-31 18:25:04,555 - root - INFO - *****End of Multilogin Testcase_002 *******
+2021-05-31 18:25:04,556 - root - INFO - *****Testcase_002 is completed*******
+2021-05-31 18:25:04,556 - root - INFO - *****Testcase_002 is completed*******
+2021-05-31 18:25:04,556 - root - INFO - *****Testcase_002 is completed*******
+2021-05-31 18:30:45,152 - root - INFO - **************Verifying Login Title*****************
+2021-05-31 18:30:45,152 - root - INFO - **************Verifying Login Title*****************
+2021-05-31 18:30:45,152 - root - INFO - **************Verifying Login Title*****************
+2021-05-31 18:30:53,457 - root - INFO - **************Login Title is passed*****************
+2021-05-31 18:30:53,457 - root - INFO - **************Login Title is passed*****************
+2021-05-31 18:30:53,457 - root - INFO - **************Login Title is passed*****************
+2021-05-31 18:30:55,493 - root - INFO - ************** Test-002-Verifying Multilogin*****************
+2021-05-31 18:30:55,493 - root - INFO - ************** Test-002-Verifying Multilogin*****************
+2021-05-31 18:30:55,493 - root - INFO - ************** Test-002-Verifying Multilogin*****************
+2021-05-31 18:30:55,494 - root - INFO - **************Multilogin test starts*****************
+2021-05-31 18:30:55,494 - root - INFO - **************Multilogin test starts*****************
+2021-05-31 18:30:55,494 - root - INFO - **************Multilogin test starts*****************
+2021-05-31 18:31:08,150 - root - INFO - *****Passed********
+2021-05-31 18:31:08,150 - root - INFO - *****Passed********
+2021-05-31 18:31:08,150 - root - INFO - *****Passed********
+2021-05-31 18:31:08,151 - root - INFO - *********Passed************
+2021-05-31 18:31:08,151 - root - INFO - *********Passed************
+2021-05-31 18:31:08,151 - root - INFO - *********Passed************
+2021-05-31 18:31:14,366 - root - INFO - *****Passed********
+2021-05-31 18:31:14,366 - root - INFO - *****Passed********
+2021-05-31 18:31:14,366 - root - INFO - *****Passed********
+2021-05-31 18:31:14,367 - root - INFO - *********Failed************
+2021-05-31 18:31:14,367 - root - INFO - *********Failed************
+2021-05-31 18:31:14,367 - root - INFO - *********Failed************
+2021-05-31 18:31:19,808 - root - INFO - *****Passed********
+2021-05-31 18:31:19,808 - root - INFO - *****Passed********
+2021-05-31 18:31:19,808 - root - INFO - *****Passed********
+2021-05-31 18:31:19,809 - root - INFO - *********Failed************
+2021-05-31 18:31:19,809 - root - INFO - *********Failed************
+2021-05-31 18:31:19,809 - root - INFO - *********Failed************
+2021-05-31 18:31:25,182 - root - INFO - *****Passed********
+2021-05-31 18:31:25,182 - root - INFO - *****Passed********
+2021-05-31 18:31:25,182 - root - INFO - *****Passed********
+2021-05-31 18:31:25,183 - root - INFO - *********Failed************
+2021-05-31 18:31:25,183 - root - INFO - *********Failed************
+2021-05-31 18:31:25,183 - root - INFO - *********Failed************
+2021-05-31 18:31:30,597 - root - INFO - *****Passed********
+2021-05-31 18:31:30,597 - root - INFO - *****Passed********
+2021-05-31 18:31:30,597 - root - INFO - *****Passed********
+2021-05-31 18:31:30,597 - root - INFO - *********Passed************
+2021-05-31 18:31:30,597 - root - INFO - *********Passed************
+2021-05-31 18:31:30,597 - root - INFO - *********Passed************
+2021-05-31 18:31:31,226 - root - INFO - *****Testcase_002 Multilogin is passed****
+2021-05-31 18:31:31,226 - root - INFO - *****Testcase_002 Multilogin is passed****
+2021-05-31 18:31:31,226 - root - INFO - *****Testcase_002 Multilogin is passed****
+2021-05-31 18:31:31,415 - root - INFO - *****End of Multilogin Testcase_002 *******
+2021-05-31 18:31:31,415 - root - INFO - *****End of Multilogin Testcase_002 *******
+2021-05-31 18:31:31,415 - root - INFO - *****End of Multilogin Testcase_002 *******
+2021-05-31 18:31:31,415 - root - INFO - *****Testcase_002 is completed*******
+2021-05-31 18:31:31,415 - root - INFO - *****Testcase_002 is completed*******
+2021-05-31 18:31:31,415 - root - INFO - *****Testcase_002 is completed*******
+2021-05-31 18:34:23,450 - root - INFO - **************Verifying Login Title*****************
+2021-05-31 18:34:23,450 - root - INFO - **************Verifying Login Title*****************
+2021-05-31 18:34:23,450 - root - INFO - **************Verifying Login Title*****************
+2021-05-31 18:34:30,643 - root - INFO - **************Login Title is passed*****************
+2021-05-31 18:34:30,643 - root - INFO - **************Login Title is passed*****************
+2021-05-31 18:34:30,643 - root - INFO - **************Login Title is passed*****************
+2021-05-31 18:34:32,330 - root - INFO - ************** Test-002-Verifying Multilogin*****************
+2021-05-31 18:34:32,330 - root - INFO - ************** Test-002-Verifying Multilogin*****************
+2021-05-31 18:34:32,330 - root - INFO - ************** Test-002-Verifying Multilogin*****************
+2021-05-31 18:34:32,330 - root - INFO - **************Multilogin test starts*****************
+2021-05-31 18:34:32,330 - root - INFO - **************Multilogin test starts*****************
+2021-05-31 18:34:32,330 - root - INFO - **************Multilogin test starts*****************
+2021-05-31 18:34:45,010 - root - INFO - *****Passed********
+2021-05-31 18:34:45,010 - root - INFO - *****Passed********
+2021-05-31 18:34:45,010 - root - INFO - *****Passed********
+2021-05-31 18:34:45,011 - root - INFO - *********Passed************
+2021-05-31 18:34:45,011 - root - INFO - *********Passed************
+2021-05-31 18:34:45,011 - root - INFO - *********Passed************
+2021-05-31 18:34:51,451 - root - INFO - *****Passed********
+2021-05-31 18:34:51,451 - root - INFO - *****Passed********
+2021-05-31 18:34:51,451 - root - INFO - *****Passed********
+2021-05-31 18:34:51,451 - root - INFO - *********Failed************
+2021-05-31 18:34:51,451 - root - INFO - *********Failed************
+2021-05-31 18:34:51,451 - root - INFO - *********Failed************
+2021-05-31 18:34:56,854 - root - INFO - *****Passed********
+2021-05-31 18:34:56,854 - root - INFO - *****Passed********
+2021-05-31 18:34:56,854 - root - INFO - *****Passed********
+2021-05-31 18:34:56,855 - root - INFO - *********Failed************
+2021-05-31 18:34:56,855 - root - INFO - *********Failed************
+2021-05-31 18:34:56,855 - root - INFO - *********Failed************
+2021-05-31 18:35:02,225 - root - INFO - *****Passed********
+2021-05-31 18:35:02,225 - root - INFO - *****Passed********
+2021-05-31 18:35:02,225 - root - INFO - *****Passed********
+2021-05-31 18:35:02,226 - root - INFO - *********Failed************
+2021-05-31 18:35:02,226 - root - INFO - *********Failed************
+2021-05-31 18:35:02,226 - root - INFO - *********Failed************
+2021-05-31 18:35:07,692 - root - INFO - *****Passed********
+2021-05-31 18:35:07,692 - root - INFO - *****Passed********
+2021-05-31 18:35:07,692 - root - INFO - *****Passed********
+2021-05-31 18:35:07,693 - root - INFO - *********Passed************
+2021-05-31 18:35:07,693 - root - INFO - *********Passed************
+2021-05-31 18:35:07,693 - root - INFO - *********Passed************
+2021-05-31 18:35:08,376 - root - INFO - *****Testcase_002 Multilogin is passed****
+2021-05-31 18:35:08,376 - root - INFO - *****Testcase_002 Multilogin is passed****
+2021-05-31 18:35:08,376 - root - INFO - *****Testcase_002 Multilogin is passed****
+2021-05-31 18:35:08,634 - root - INFO - *****End of Multilogin Testcase_002 *******
+2021-05-31 18:35:08,634 - root - INFO - *****End of Multilogin Testcase_002 *******
+2021-05-31 18:35:08,634 - root - INFO - *****End of Multilogin Testcase_002 *******
+2021-05-31 18:35:08,635 - root - INFO - *****Testcase_002 is completed*******
+2021-05-31 18:35:08,635 - root - INFO - *****Testcase_002 is completed*******
+2021-05-31 18:35:08,635 - root - INFO - *****Testcase_002 is completed*******
+2021-05-31 18:42:15,591 - root - INFO - **************Verifying Login Title*****************
+2021-05-31 18:42:15,591 - root - INFO - **************Verifying Login Title*****************
+2021-05-31 18:42:15,591 - root - INFO - **************Verifying Login Title*****************
+2021-05-31 18:42:22,009 - root - INFO - **************Login Title is passed*****************
+2021-05-31 18:42:22,009 - root - INFO - **************Login Title is passed*****************
+2021-05-31 18:42:22,009 - root - INFO - **************Login Title is passed*****************
+2021-05-31 18:43:46,106 - root - INFO - **************Test001_Login***********
+2021-05-31 18:43:46,106 - root - INFO - **************Test001_Login***********
+2021-05-31 18:43:46,106 - root - INFO - **************Test001_Login***********
+2021-05-31 18:43:46,108 - root - INFO - **************Verifying Homepage Title*****************
+2021-05-31 18:43:46,108 - root - INFO - **************Verifying Homepage Title*****************
+2021-05-31 18:43:46,108 - root - INFO - **************Verifying Homepage Title*****************
+2021-05-31 18:43:53,241 - root - INFO - **************Homepage Title is passed*****************
+2021-05-31 18:43:53,241 - root - INFO - **************Homepage Title is passed*****************
+2021-05-31 18:43:53,241 - root - INFO - **************Homepage Title is passed*****************
+2021-05-31 18:44:35,322 - root - INFO - **************Test001_Login***********
+2021-05-31 18:44:35,322 - root - INFO - **************Test001_Login***********
+2021-05-31 18:44:35,322 - root - INFO - **************Test001_Login***********
+2021-05-31 18:44:35,370 - root - INFO - **************Verifying Homepage Title*****************
+2021-05-31 18:44:35,370 - root - INFO - **************Verifying Homepage Title*****************
+2021-05-31 18:44:35,370 - root - INFO - **************Verifying Homepage Title*****************
+2021-05-31 18:44:41,908 - root - INFO - **************Homepage Title is passed*****************
+2021-05-31 18:44:41,908 - root - INFO - **************Homepage Title is passed*****************
+2021-05-31 18:44:41,908 - root - INFO - **************Homepage Title is passed*****************
+2021-05-31 18:46:33,818 - root - INFO - **************Test001_Login***********
+2021-05-31 18:46:33,818 - root - INFO - **************Test001_Login***********
+2021-05-31 18:46:33,818 - root - INFO - **************Test001_Login***********
+2021-05-31 18:46:33,823 - root - INFO - **************Verifying Homepage Title*****************
+2021-05-31 18:46:33,823 - root - INFO - **************Verifying Homepage Title*****************
+2021-05-31 18:46:33,823 - root - INFO - **************Verifying Homepage Title*****************
+2021-05-31 18:46:40,484 - root - INFO - **************Homepage Title is passed*****************
+2021-05-31 18:46:40,484 - root - INFO - **************Homepage Title is passed*****************
+2021-05-31 18:46:40,484 - root - INFO - **************Homepage Title is passed*****************
+2021-05-31 18:49:13,784 - root - INFO - **************Test001_Login***********
+2021-05-31 18:49:13,784 - root - INFO - **************Test001_Login***********
+2021-05-31 18:49:13,784 - root - INFO - **************Test001_Login***********
+2021-05-31 18:49:13,837 - root - INFO - **************Verifying Homepage Title*****************
+2021-05-31 18:49:13,837 - root - INFO - **************Verifying Homepage Title*****************
+2021-05-31 18:49:13,837 - root - INFO - **************Verifying Homepage Title*****************
+2021-05-31 18:49:20,401 - root - INFO - **************Homepage Title is passed*****************
+2021-05-31 18:49:20,401 - root - INFO - **************Homepage Title is passed*****************
+2021-05-31 18:49:20,401 - root - INFO - **************Homepage Title is passed*****************
+2021-05-31 18:49:39,173 - root - INFO - **************Test001_Login***********
+2021-05-31 18:49:39,173 - root - INFO - **************Test001_Login***********
+2021-05-31 18:49:39,173 - root - INFO - **************Test001_Login***********
+2021-05-31 18:49:39,173 - root - INFO - **************Verifying Homepage Title*****************
+2021-05-31 18:49:39,173 - root - INFO - **************Verifying Homepage Title*****************
+2021-05-31 18:49:39,173 - root - INFO - **************Verifying Homepage Title*****************
+2021-05-31 18:49:45,235 - root - INFO - **************Homepage Title is passed*****************
+2021-05-31 18:49:45,235 - root - INFO - **************Homepage Title is passed*****************
+2021-05-31 18:49:45,235 - root - INFO - **************Homepage Title is passed*****************
+2021-05-31 18:51:05,205 - root - INFO - **************Test001_Login***********
+2021-05-31 18:51:05,205 - root - INFO - **************Test001_Login***********
+2021-05-31 18:51:05,205 - root - INFO - **************Test001_Login***********
+2021-05-31 18:51:05,206 - root - INFO - **************Verifying Homepage Title*****************
+2021-05-31 18:51:05,206 - root - INFO - **************Verifying Homepage Title*****************
+2021-05-31 18:51:05,206 - root - INFO - **************Verifying Homepage Title*****************
+2021-05-31 18:51:11,986 - root - INFO - **************Homepage Title is passed*****************
+2021-05-31 18:51:11,986 - root - INFO - **************Homepage Title is passed*****************
+2021-05-31 18:51:11,986 - root - INFO - **************Homepage Title is passed*****************
+2021-05-31 18:52:08,279 - root - INFO - **************Test001_Login***********
+2021-05-31 18:52:08,279 - root - INFO - **************Test001_Login***********
+2021-05-31 18:52:08,279 - root - INFO - **************Test001_Login***********
+2021-05-31 18:52:08,280 - root - INFO - **************Verifying Homepage Title*****************
+2021-05-31 18:52:08,280 - root - INFO - **************Verifying Homepage Title*****************
+2021-05-31 18:52:08,280 - root - INFO - **************Verifying Homepage Title*****************
+2021-05-31 18:52:14,454 - root - INFO - **************Homepage Title is passed*****************
+2021-05-31 18:52:14,454 - root - INFO - **************Homepage Title is passed*****************
+2021-05-31 18:52:14,454 - root - INFO - **************Homepage Title is passed*****************
+2021-05-31 18:53:05,340 - root - INFO - **************Test001_Login***********
+2021-05-31 18:53:05,340 - root - INFO - **************Test001_Login***********
+2021-05-31 18:53:05,340 - root - INFO - **************Test001_Login***********
+2021-05-31 18:53:05,389 - root - INFO - **************Verifying Homepage Title*****************
+2021-05-31 18:53:05,389 - root - INFO - **************Verifying Homepage Title*****************
+2021-05-31 18:53:05,389 - root - INFO - **************Verifying Homepage Title*****************
+2021-05-31 18:53:11,674 - root - INFO - **************Homepage Title is passed*****************
+2021-05-31 18:53:11,674 - root - INFO - **************Homepage Title is passed*****************
+2021-05-31 18:53:11,674 - root - INFO - **************Homepage Title is passed*****************
+2021-05-31 18:53:43,562 - root - INFO - **************Test001_Login***********
+2021-05-31 18:53:43,562 - root - INFO - **************Test001_Login***********
+2021-05-31 18:53:43,562 - root - INFO - **************Test001_Login***********
+2021-05-31 18:53:43,563 - root - INFO - **************Verifying Homepage Title*****************
+2021-05-31 18:53:43,563 - root - INFO - **************Verifying Homepage Title*****************
+2021-05-31 18:53:43,563 - root - INFO - **************Verifying Homepage Title*****************
+2021-05-31 18:53:49,367 - root - INFO - **************Homepage Title is passed*****************
+2021-05-31 18:53:49,367 - root - INFO - **************Homepage Title is passed*****************
+2021-05-31 18:53:49,367 - root - INFO - **************Homepage Title is passed*****************
+2021-05-31 18:55:40,601 - root - INFO - **************Verifying Login Title*****************
+2021-05-31 18:55:40,601 - root - INFO - **************Verifying Login Title*****************
+2021-05-31 18:55:40,601 - root - INFO - **************Verifying Login Title*****************
+2021-05-31 18:55:48,059 - root - INFO - **************Login Title is passed*****************
+2021-05-31 18:55:48,059 - root - INFO - **************Login Title is passed*****************
+2021-05-31 18:55:48,059 - root - INFO - **************Login Title is passed*****************
+2021-05-31 18:55:49,578 - root - INFO - ************** Test-002-Verifying Multilogin*****************
+2021-05-31 18:55:49,578 - root - INFO - ************** Test-002-Verifying Multilogin*****************
+2021-05-31 18:55:49,578 - root - INFO - ************** Test-002-Verifying Multilogin*****************
+2021-05-31 18:55:49,579 - root - INFO - **************Multilogin test starts*****************
+2021-05-31 18:55:49,579 - root - INFO - **************Multilogin test starts*****************
+2021-05-31 18:55:49,579 - root - INFO - **************Multilogin test starts*****************
+2021-05-31 18:56:04,330 - root - INFO - *****Passed********
+2021-05-31 18:56:04,330 - root - INFO - *****Passed********
+2021-05-31 18:56:04,330 - root - INFO - *****Passed********
+2021-05-31 18:56:04,331 - root - INFO - *********Passed************
+2021-05-31 18:56:04,331 - root - INFO - *********Passed************
+2021-05-31 18:56:04,331 - root - INFO - *********Passed************
+2021-05-31 18:56:10,584 - root - INFO - *****Passed********
+2021-05-31 18:56:10,584 - root - INFO - *****Passed********
+2021-05-31 18:56:10,584 - root - INFO - *****Passed********
+2021-05-31 18:56:10,585 - root - INFO - *********Failed************
+2021-05-31 18:56:10,585 - root - INFO - *********Failed************
+2021-05-31 18:56:10,585 - root - INFO - *********Failed************
+2021-05-31 18:56:16,022 - root - INFO - *****Passed********
+2021-05-31 18:56:16,022 - root - INFO - *****Passed********
+2021-05-31 18:56:16,022 - root - INFO - *****Passed********
+2021-05-31 18:56:16,023 - root - INFO - *********Failed************
+2021-05-31 18:56:16,023 - root - INFO - *********Failed************
+2021-05-31 18:56:16,023 - root - INFO - *********Failed************
+2021-05-31 18:56:21,371 - root - INFO - *****Passed********
+2021-05-31 18:56:21,371 - root - INFO - *****Passed********
+2021-05-31 18:56:21,371 - root - INFO - *****Passed********
+2021-05-31 18:56:21,372 - root - INFO - *********Failed************
+2021-05-31 18:56:21,372 - root - INFO - *********Failed************
+2021-05-31 18:56:21,372 - root - INFO - *********Failed************
+2021-05-31 18:56:26,793 - root - INFO - *****Passed********
+2021-05-31 18:56:26,793 - root - INFO - *****Passed********
+2021-05-31 18:56:26,793 - root - INFO - *****Passed********
+2021-05-31 18:56:26,794 - root - INFO - *********Passed************
+2021-05-31 18:56:26,794 - root - INFO - *********Passed************
+2021-05-31 18:56:26,794 - root - INFO - *********Passed************
+2021-05-31 18:56:27,448 - root - INFO - *****Testcase_002 Multilogin is passed****
+2021-05-31 18:56:27,448 - root - INFO - *****Testcase_002 Multilogin is passed****
+2021-05-31 18:56:27,448 - root - INFO - *****Testcase_002 Multilogin is passed****
+2021-05-31 18:56:27,578 - root - INFO - *****End of Multilogin Testcase_002 *******
+2021-05-31 18:56:27,578 - root - INFO - *****End of Multilogin Testcase_002 *******
+2021-05-31 18:56:27,578 - root - INFO - *****End of Multilogin Testcase_002 *******
+2021-05-31 18:56:27,578 - root - INFO - *****Testcase_002 is completed*******
+2021-05-31 18:56:27,578 - root - INFO - *****Testcase_002 is completed*******
+2021-05-31 18:56:27,578 - root - INFO - *****Testcase_002 is completed*******
+2021-05-31 18:56:29,111 - root - INFO - **************Test003_begins*****************
+2021-05-31 18:56:29,111 - root - INFO - **************Test003_begins*****************
+2021-05-31 18:56:29,111 - root - INFO - **************Test003_begins*****************
+2021-05-31 18:56:54,810 - root - INFO - **************New customer has been added*****************
+2021-05-31 18:56:54,810 - root - INFO - **************New customer has been added*****************
+2021-05-31 18:56:54,810 - root - INFO - **************New customer has been added*****************
+2021-05-31 18:56:58,158 - root - INFO - **************customer has been added successfully*****************
+2021-05-31 18:56:58,158 - root - INFO - **************customer has been added successfully*****************
+2021-05-31 18:56:58,158 - root - INFO - **************customer has been added successfully*****************
+2021-05-31 18:57:01,561 - root - INFO - **************End of Add Customer Testcase*****************
+2021-05-31 18:57:01,561 - root - INFO - **************End of Add Customer Testcase*****************
+2021-05-31 18:57:01,561 - root - INFO - **************End of Add Customer Testcase*****************
+2021-05-31 19:01:13,398 - root - INFO - **************Test001_Login***********
+2021-05-31 19:01:13,398 - root - INFO - **************Test001_Login***********
+2021-05-31 19:01:13,398 - root - INFO - **************Test001_Login***********
+2021-05-31 19:01:13,399 - root - INFO - **************Verifying Homepage Title*****************
+2021-05-31 19:01:13,399 - root - INFO - **************Verifying Homepage Title*****************
+2021-05-31 19:01:13,399 - root - INFO - **************Verifying Homepage Title*****************
+2021-05-31 19:01:19,981 - root - INFO - **************Homepage Title is passed*****************
+2021-05-31 19:01:19,981 - root - INFO - **************Homepage Title is passed*****************
+2021-05-31 19:01:19,981 - root - INFO - **************Homepage Title is passed*****************
+2021-05-31 19:02:50,345 - root - INFO - **************Test001_Login***********
+2021-05-31 19:02:50,345 - root - INFO - **************Test001_Login***********
+2021-05-31 19:02:50,345 - root - INFO - **************Test001_Login***********
+2021-05-31 19:02:50,516 - root - INFO - **************Verifying Homepage Title*****************
+2021-05-31 19:02:50,516 - root - INFO - **************Verifying Homepage Title*****************
+2021-05-31 19:02:50,516 - root - INFO - **************Verifying Homepage Title*****************
+2021-05-31 19:02:56,937 - root - INFO - **************Homepage Title is passed*****************
+2021-05-31 19:02:56,937 - root - INFO - **************Homepage Title is passed*****************
+2021-05-31 19:02:56,937 - root - INFO - **************Homepage Title is passed*****************
+2021-05-31 19:04:46,714 - root - INFO - **************Test001_Login***********
+2021-05-31 19:04:46,714 - root - INFO - **************Test001_Login***********
+2021-05-31 19:04:46,714 - root - INFO - **************Test001_Login***********
+2021-05-31 19:04:46,715 - root - INFO - **************Verifying Homepage Title*****************
+2021-05-31 19:04:46,715 - root - INFO - **************Verifying Homepage Title*****************
+2021-05-31 19:04:46,715 - root - INFO - **************Verifying Homepage Title*****************
+2021-05-31 19:04:53,372 - root - INFO - **************Homepage Title is passed*****************
+2021-05-31 19:04:53,372 - root - INFO - **************Homepage Title is passed*****************
+2021-05-31 19:04:53,372 - root - INFO - **************Homepage Title is passed*****************
+2021-05-31 19:10:21,188 - root - INFO - **************Test001_Login***********
+2021-05-31 19:10:21,188 - root - INFO - **************Test001_Login***********
+2021-05-31 19:10:21,188 - root - INFO - **************Test001_Login***********
+2021-05-31 19:10:21,189 - root - INFO - **************Verifying Homepage Title*****************
+2021-05-31 19:10:21,189 - root - INFO - **************Verifying Homepage Title*****************
+2021-05-31 19:10:21,189 - root - INFO - **************Verifying Homepage Title*****************
+2021-05-31 19:10:28,234 - root - INFO - **************Homepage Title is passed*****************
+2021-05-31 19:10:28,234 - root - INFO - **************Homepage Title is passed*****************
+2021-05-31 19:10:28,234 - root - INFO - **************Homepage Title is passed*****************
+2021-05-31 19:23:59,479 - root - INFO - **************Test001_Login***********
+2021-05-31 19:23:59,480 - root - INFO - **************Verifying Homepage Title*****************
+2021-05-31 19:24:04,733 - root - INFO - **************Homepage Title is passed*****************
+2021-05-31 19:24:06,300 - root - INFO - **************Verifying Login Title*****************
+2021-05-31 19:24:12,921 - root - INFO - **************Login Title is passed*****************
+2021-05-31 19:29:29,140 - root - INFO - **************Test001_Login***********
+2021-05-31 19:29:29,140 - root - INFO - **************Test001_Login***********
+2021-05-31 19:29:29,140 - root - INFO - **************Test001_Login***********
+2021-05-31 19:29:29,140 - root - INFO - **************Verifying Homepage Title*****************
+2021-05-31 19:29:29,140 - root - INFO - **************Verifying Homepage Title*****************
+2021-05-31 19:29:29,140 - root - INFO - **************Verifying Homepage Title*****************
+2021-05-31 19:29:35,301 - root - INFO - **************Homepage Title is passed*****************
+2021-05-31 19:29:35,301 - root - INFO - **************Homepage Title is passed*****************
+2021-05-31 19:29:35,301 - root - INFO - **************Homepage Title is passed*****************
+2021-05-31 19:32:05,097 - root - INFO - **************Test001_Login***********
+2021-05-31 19:32:05,097 - root - INFO - **************Test001_Login***********
+2021-05-31 19:32:05,097 - root - INFO - **************Test001_Login***********
+2021-05-31 19:32:05,097 - root - INFO - **************Verifying Homepage Title*****************
+2021-05-31 19:32:05,097 - root - INFO - **************Verifying Homepage Title*****************
+2021-05-31 19:32:05,097 - root - INFO - **************Verifying Homepage Title*****************
+2021-05-31 19:33:39,769 - root - INFO - **************Test001_Login***********
+2021-05-31 19:33:39,769 - root - INFO - **************Test001_Login***********
+2021-05-31 19:33:39,769 - root - INFO - **************Test001_Login***********
+2021-05-31 19:33:39,770 - root - INFO - **************Verifying Homepage Title*****************
+2021-05-31 19:33:39,770 - root - INFO - **************Verifying Homepage Title*****************
+2021-05-31 19:33:39,770 - root - INFO - **************Verifying Homepage Title*****************
+2021-05-31 19:37:35,052 - root - INFO - **************Test001_Login***********
+2021-05-31 19:37:35,052 - root - INFO - **************Test001_Login***********
+2021-05-31 19:37:35,052 - root - INFO - **************Test001_Login***********
+2021-05-31 19:37:35,052 - root - INFO - **************Verifying Homepage Title*****************
+2021-05-31 19:37:35,052 - root - INFO - **************Verifying Homepage Title*****************
+2021-05-31 19:37:35,052 - root - INFO - **************Verifying Homepage Title*****************
+2021-05-31 19:38:35,614 - root - INFO - **************Test001_Login***********
+2021-05-31 19:38:35,614 - root - INFO - **************Test001_Login***********
+2021-05-31 19:38:35,614 - root - INFO - **************Test001_Login***********
+2021-05-31 19:38:35,615 - root - INFO - **************Verifying Homepage Title*****************
+2021-05-31 19:38:35,615 - root - INFO - **************Verifying Homepage Title*****************
+2021-05-31 19:38:35,615 - root - INFO - **************Verifying Homepage Title*****************
+2021-05-31 19:39:01,997 - root - INFO - **************Test001_Login***********
+2021-05-31 19:39:01,997 - root - INFO - **************Test001_Login***********
+2021-05-31 19:39:01,997 - root - INFO - **************Test001_Login***********
+2021-05-31 19:39:01,997 - root - INFO - **************Verifying Homepage Title*****************
+2021-05-31 19:39:01,997 - root - INFO - **************Verifying Homepage Title*****************
+2021-05-31 19:39:01,997 - root - INFO - **************Verifying Homepage Title*****************
+2021-05-31 19:39:34,460 - root - INFO - **************Test001_Login***********
+2021-05-31 19:39:34,460 - root - INFO - **************Test001_Login***********
+2021-05-31 19:39:34,460 - root - INFO - **************Test001_Login***********
+2021-05-31 19:39:34,461 - root - INFO - **************Verifying Homepage Title*****************
+2021-05-31 19:39:34,461 - root - INFO - **************Verifying Homepage Title*****************
+2021-05-31 19:39:34,461 - root - INFO - **************Verifying Homepage Title*****************
+2021-05-31 19:39:41,143 - root - INFO - **************Homepage Title is passed*****************
+2021-05-31 19:39:41,143 - root - INFO - **************Homepage Title is passed*****************
+2021-05-31 19:39:41,143 - root - INFO - **************Homepage Title is passed*****************
+2021-05-31 19:41:43,432 - root - INFO - **************Test001_Login***********
+2021-05-31 19:41:43,432 - root - INFO - **************Test001_Login***********
+2021-05-31 19:41:43,432 - root - INFO - **************Test001_Login***********
+2021-05-31 19:41:43,432 - root - INFO - **************Verifying Homepage Title*****************
+2021-05-31 19:41:43,432 - root - INFO - **************Verifying Homepage Title*****************
+2021-05-31 19:41:43,432 - root - INFO - **************Verifying Homepage Title*****************
+2021-05-31 19:41:51,539 - root - INFO - **************Test001_Login***********
+2021-05-31 19:41:51,539 - root - INFO - **************Test001_Login***********
+2021-05-31 19:41:51,539 - root - INFO - **************Test001_Login***********
+2021-05-31 19:41:51,540 - root - INFO - **************Verifying Homepage Title*****************
+2021-05-31 19:41:51,540 - root - INFO - **************Verifying Homepage Title*****************
+2021-05-31 19:41:51,540 - root - INFO - **************Verifying Homepage Title*****************
+2021-05-31 19:41:58,059 - root - INFO - **************Homepage Title is passed*****************
+2021-05-31 19:41:58,059 - root - INFO - **************Homepage Title is passed*****************
+2021-05-31 19:41:58,059 - root - INFO - **************Homepage Title is passed*****************
+2021-05-31 19:42:43,576 - root - INFO - **************Test001_Login***********
+2021-05-31 19:42:43,576 - root - INFO - **************Test001_Login***********
+2021-05-31 19:42:43,576 - root - INFO - **************Test001_Login***********
+2021-05-31 19:42:43,576 - root - INFO - **************Verifying Homepage Title*****************
+2021-05-31 19:42:43,576 - root - INFO - **************Verifying Homepage Title*****************
+2021-05-31 19:42:43,576 - root - INFO - **************Verifying Homepage Title*****************
+2021-05-31 19:42:50,448 - root - INFO - **************Homepage Title is passed*****************
+2021-05-31 19:42:50,448 - root - INFO - **************Homepage Title is passed*****************
+2021-05-31 19:42:50,448 - root - INFO - **************Homepage Title is passed*****************
+2021-05-31 19:43:36,194 - root - INFO - **************Test001_Login***********
+2021-05-31 19:43:36,194 - root - INFO - **************Test001_Login***********
+2021-05-31 19:43:36,194 - root - INFO - **************Test001_Login***********
+2021-05-31 19:43:36,194 - root - INFO - **************Verifying Homepage Title*****************
+2021-05-31 19:43:36,194 - root - INFO - **************Verifying Homepage Title*****************
+2021-05-31 19:43:36,194 - root - INFO - **************Verifying Homepage Title*****************
+2021-05-31 19:45:22,681 - root - INFO - **************Test001_Login***********
+2021-05-31 19:45:22,681 - root - INFO - **************Test001_Login***********
+2021-05-31 19:45:22,681 - root - INFO - **************Test001_Login***********
+2021-05-31 19:45:22,682 - root - INFO - **************Verifying Homepage Title*****************
+2021-05-31 19:45:22,682 - root - INFO - **************Verifying Homepage Title*****************
+2021-05-31 19:45:22,682 - root - INFO - **************Verifying Homepage Title*****************
+2021-05-31 19:45:28,882 - root - INFO - **************Homepage Title is passed*****************
+2021-05-31 19:45:28,882 - root - INFO - **************Homepage Title is passed*****************
+2021-05-31 19:45:28,882 - root - INFO - **************Homepage Title is passed*****************
+2021-05-31 19:49:12,087 - root - INFO - **************Test001_Login***********
+2021-05-31 19:49:12,087 - root - INFO - **************Test001_Login***********
+2021-05-31 19:49:12,087 - root - INFO - **************Test001_Login***********
+2021-05-31 19:49:12,088 - root - INFO - **************Verifying Homepage Title*****************
+2021-05-31 19:49:12,088 - root - INFO - **************Verifying Homepage Title*****************
+2021-05-31 19:49:12,088 - root - INFO - **************Verifying Homepage Title*****************
+2021-05-31 19:49:19,007 - root - INFO - **************Homepage Title is passed*****************
+2021-05-31 19:49:19,007 - root - INFO - **************Homepage Title is passed*****************
+2021-05-31 19:49:19,007 - root - INFO - **************Homepage Title is passed*****************
+2021-05-31 19:53:14,805 - root - INFO - **************Test001_Login***********
+2021-05-31 19:53:14,805 - root - INFO - **************Test001_Login***********
+2021-05-31 19:53:14,805 - root - INFO - **************Test001_Login***********
+2021-05-31 19:53:14,818 - root - INFO - **************Verifying Homepage Title*****************
+2021-05-31 19:53:14,818 - root - INFO - **************Verifying Homepage Title*****************
+2021-05-31 19:53:14,818 - root - INFO - **************Verifying Homepage Title*****************
+2021-05-31 19:53:22,893 - root - INFO - **************Homepage Title is passed*****************
+2021-05-31 19:53:22,893 - root - INFO - **************Homepage Title is passed*****************
+2021-05-31 19:53:22,893 - root - INFO - **************Homepage Title is passed*****************
+2021-06-01 15:47:02,342 - root - INFO - **************Test001_Login***********
+2021-06-01 15:47:02,342 - root - INFO - **************Test001_Login***********
+2021-06-01 15:47:02,342 - root - INFO - **************Test001_Login***********
+2021-06-01 15:47:02,504 - root - INFO - **************Verifying Homepage Title*****************
+2021-06-01 15:47:02,504 - root - INFO - **************Verifying Homepage Title*****************
+2021-06-01 15:47:02,504 - root - INFO - **************Verifying Homepage Title*****************
+2021-06-01 15:47:09,688 - root - INFO - **************Homepage Title is passed*****************
+2021-06-01 15:47:09,688 - root - INFO - **************Homepage Title is passed*****************
+2021-06-01 15:47:09,688 - root - INFO - **************Homepage Title is passed*****************
+2021-06-01 15:49:30,856 - root - INFO - **************Test001_Login***********
+2021-06-01 15:49:30,856 - root - INFO - **************Test001_Login***********
+2021-06-01 15:49:30,856 - root - INFO - **************Test001_Login***********
+2021-06-01 15:49:30,857 - root - INFO - **************Verifying Homepage Title*****************
+2021-06-01 15:49:30,857 - root - INFO - **************Verifying Homepage Title*****************
+2021-06-01 15:49:30,857 - root - INFO - **************Verifying Homepage Title*****************
+2021-06-01 15:49:37,328 - root - INFO - **************Homepage Title is passed*****************
+2021-06-01 15:49:37,328 - root - INFO - **************Homepage Title is passed*****************
+2021-06-01 15:49:37,328 - root - INFO - **************Homepage Title is passed*****************
+2021-06-01 15:52:54,380 - root - INFO - **************Test001_Login***********
+2021-06-01 15:52:54,383 - root - INFO - **************Verifying Homepage Title*****************
+2021-06-01 15:53:01,288 - root - INFO - **************Homepage Title is passed*****************
+2021-06-01 15:53:49,410 - root - INFO - **************Test001_Login***********
+2021-06-01 15:53:49,432 - root - INFO - **************Verifying Homepage Title*****************
+2021-06-01 15:53:57,566 - root - INFO - **************Homepage Title is passed*****************
+2021-06-01 15:53:59,597 - root - INFO - **************Verifying Login Title*****************
+2021-06-01 15:54:08,991 - root - INFO - **************Login Title is passed*****************
+2021-06-01 15:55:57,335 - root - INFO - **************Test001_Login***********
+2021-06-01 15:55:57,335 - root - INFO - **************Test001_Login***********
+2021-06-01 15:55:57,335 - root - INFO - **************Test001_Login***********
+2021-06-01 15:55:57,336 - root - INFO - **************Verifying Homepage Title*****************
+2021-06-01 15:55:57,336 - root - INFO - **************Verifying Homepage Title*****************
+2021-06-01 15:55:57,336 - root - INFO - **************Verifying Homepage Title*****************
+2021-06-01 15:56:04,021 - root - INFO - **************Homepage Title is passed*****************
+2021-06-01 15:56:04,021 - root - INFO - **************Homepage Title is passed*****************
+2021-06-01 15:56:04,021 - root - INFO - **************Homepage Title is passed*****************
+2021-06-01 15:56:45,055 - root - INFO - **************Test001_Login***********
+2021-06-01 15:56:45,055 - root - INFO - **************Test001_Login***********
+2021-06-01 15:56:45,055 - root - INFO - **************Test001_Login***********
+2021-06-01 15:56:45,056 - root - INFO - **************Verifying Homepage Title*****************
+2021-06-01 15:56:45,056 - root - INFO - **************Verifying Homepage Title*****************
+2021-06-01 15:56:45,056 - root - INFO - **************Verifying Homepage Title*****************
+2021-06-01 15:56:52,171 - root - INFO - **************Homepage Title is passed*****************
+2021-06-01 15:56:52,171 - root - INFO - **************Homepage Title is passed*****************
+2021-06-01 15:56:52,171 - root - INFO - **************Homepage Title is passed*****************
+2021-06-01 15:59:39,459 - root - INFO - **************Test001_Login***********
+2021-06-01 15:59:39,459 - root - INFO - **************Test001_Login***********
+2021-06-01 15:59:39,459 - root - INFO - **************Test001_Login***********
+2021-06-01 15:59:39,488 - root - INFO - **************Verifying Homepage Title*****************
+2021-06-01 15:59:39,488 - root - INFO - **************Verifying Homepage Title*****************
+2021-06-01 15:59:39,488 - root - INFO - **************Verifying Homepage Title*****************
+2021-06-01 15:59:51,295 - root - INFO - **************Homepage Title is passed*****************
+2021-06-01 15:59:51,295 - root - INFO - **************Homepage Title is passed*****************
+2021-06-01 15:59:51,295 - root - INFO - **************Homepage Title is passed*****************
+2021-06-01 16:01:41,026 - root - INFO - **************Verifying Login Title*****************
+2021-06-01 16:01:41,026 - root - INFO - **************Verifying Login Title*****************
+2021-06-01 16:01:41,026 - root - INFO - **************Verifying Login Title*****************
+2021-06-01 16:01:48,322 - root - INFO - **************Login Title is passed*****************
+2021-06-01 16:01:48,322 - root - INFO - **************Login Title is passed*****************
+2021-06-01 16:01:48,322 - root - INFO - **************Login Title is passed*****************
+2021-06-01 16:01:49,938 - root - INFO - ************** Test-002-Verifying Multilogin*****************
+2021-06-01 16:01:49,938 - root - INFO - ************** Test-002-Verifying Multilogin*****************
+2021-06-01 16:01:49,938 - root - INFO - ************** Test-002-Verifying Multilogin*****************
+2021-06-01 16:01:49,938 - root - INFO - **************Multilogin test starts*****************
+2021-06-01 16:01:49,938 - root - INFO - **************Multilogin test starts*****************
+2021-06-01 16:01:49,938 - root - INFO - **************Multilogin test starts*****************
+2021-06-01 16:02:02,624 - root - INFO - *****Passed********
+2021-06-01 16:02:02,624 - root - INFO - *****Passed********
+2021-06-01 16:02:02,624 - root - INFO - *****Passed********
+2021-06-01 16:02:02,625 - root - INFO - *********Passed************
+2021-06-01 16:02:02,625 - root - INFO - *********Passed************
+2021-06-01 16:02:02,625 - root - INFO - *********Passed************
+2021-06-01 16:02:08,905 - root - INFO - *****Passed********
+2021-06-01 16:02:08,905 - root - INFO - *****Passed********
+2021-06-01 16:02:08,905 - root - INFO - *****Passed********
+2021-06-01 16:02:08,906 - root - INFO - *********Failed************
+2021-06-01 16:02:08,906 - root - INFO - *********Failed************
+2021-06-01 16:02:08,906 - root - INFO - *********Failed************
+2021-06-01 16:02:14,327 - root - INFO - *****Passed********
+2021-06-01 16:02:14,327 - root - INFO - *****Passed********
+2021-06-01 16:02:14,327 - root - INFO - *****Passed********
+2021-06-01 16:02:14,327 - root - INFO - *********Failed************
+2021-06-01 16:02:14,327 - root - INFO - *********Failed************
+2021-06-01 16:02:14,327 - root - INFO - *********Failed************
+2021-06-01 16:02:19,743 - root - INFO - *****Passed********
+2021-06-01 16:02:19,743 - root - INFO - *****Passed********
+2021-06-01 16:02:19,743 - root - INFO - *****Passed********
+2021-06-01 16:02:19,744 - root - INFO - *********Failed************
+2021-06-01 16:02:19,744 - root - INFO - *********Failed************
+2021-06-01 16:02:19,744 - root - INFO - *********Failed************
+2021-06-01 16:02:25,176 - root - INFO - *****Passed********
+2021-06-01 16:02:25,176 - root - INFO - *****Passed********
+2021-06-01 16:02:25,176 - root - INFO - *****Passed********
+2021-06-01 16:02:25,177 - root - INFO - *********Passed************
+2021-06-01 16:02:25,177 - root - INFO - *********Passed************
+2021-06-01 16:02:25,177 - root - INFO - *********Passed************
+2021-06-01 16:02:25,893 - root - INFO - *****Testcase_002 Multilogin is passed****
+2021-06-01 16:02:25,893 - root - INFO - *****Testcase_002 Multilogin is passed****
+2021-06-01 16:02:25,893 - root - INFO - *****Testcase_002 Multilogin is passed****
+2021-06-01 16:02:26,343 - root - INFO - *****End of Multilogin Testcase_002 *******
+2021-06-01 16:02:26,343 - root - INFO - *****End of Multilogin Testcase_002 *******
+2021-06-01 16:02:26,343 - root - INFO - *****End of Multilogin Testcase_002 *******
+2021-06-01 16:02:26,343 - root - INFO - *****Testcase_002 is completed*******
+2021-06-01 16:02:26,343 - root - INFO - *****Testcase_002 is completed*******
+2021-06-01 16:02:26,343 - root - INFO - *****Testcase_002 is completed*******
+2021-06-01 16:02:27,992 - root - INFO - **************Test003_begins*****************
+2021-06-01 16:02:27,992 - root - INFO - **************Test003_begins*****************
+2021-06-01 16:02:27,992 - root - INFO - **************Test003_begins*****************
+2021-06-01 16:02:52,164 - root - INFO - **************New customer has been added*****************
+2021-06-01 16:02:52,164 - root - INFO - **************New customer has been added*****************
+2021-06-01 16:02:52,164 - root - INFO - **************New customer has been added*****************
+2021-06-01 16:02:55,224 - root - INFO - **************customer has been added successfully*****************
+2021-06-01 16:02:55,224 - root - INFO - **************customer has been added successfully*****************
+2021-06-01 16:02:55,224 - root - INFO - **************customer has been added successfully*****************
+2021-06-01 16:02:58,510 - root - INFO - **************End of Add Customer Testcase*****************
+2021-06-01 16:02:58,510 - root - INFO - **************End of Add Customer Testcase*****************
+2021-06-01 16:02:58,510 - root - INFO - **************End of Add Customer Testcase*****************
+2021-06-01 16:05:43,280 - root - INFO - **************Test001_Login***********
+2021-06-01 16:05:43,280 - root - INFO - **************Test001_Login***********
+2021-06-01 16:05:43,280 - root - INFO - **************Test001_Login***********
+2021-06-01 16:05:43,362 - root - INFO - **************Verifying Homepage Title*****************
+2021-06-01 16:05:43,362 - root - INFO - **************Verifying Homepage Title*****************
+2021-06-01 16:05:43,362 - root - INFO - **************Verifying Homepage Title*****************
+2021-06-01 16:05:49,907 - root - INFO - **************Homepage Title is passed*****************
+2021-06-01 16:05:49,907 - root - INFO - **************Homepage Title is passed*****************
+2021-06-01 16:05:49,907 - root - INFO - **************Homepage Title is passed*****************
+2021-06-01 16:12:34,057 - root - INFO - **************Test001_Login***********
+2021-06-01 16:12:34,057 - root - INFO - **************Test001_Login***********
+2021-06-01 16:12:34,057 - root - INFO - **************Test001_Login***********
+2021-06-01 16:12:34,057 - root - INFO - **************Verifying Homepage Title*****************
+2021-06-01 16:12:34,057 - root - INFO - **************Verifying Homepage Title*****************
+2021-06-01 16:12:34,057 - root - INFO - **************Verifying Homepage Title*****************
+2021-06-01 16:12:40,822 - root - INFO - **************Homepage Title is passed*****************
+2021-06-01 16:12:40,822 - root - INFO - **************Homepage Title is passed*****************
+2021-06-01 16:12:40,822 - root - INFO - **************Homepage Title is passed*****************
+2021-06-01 16:12:42,421 - root - INFO - **************Verifying Login Title*****************
+2021-06-01 16:12:42,421 - root - INFO - **************Verifying Login Title*****************
+2021-06-01 16:12:42,421 - root - INFO - **************Verifying Login Title*****************
+2021-06-01 16:12:49,457 - root - INFO - **************Login Title is passed*****************
+2021-06-01 16:12:49,457 - root - INFO - **************Login Title is passed*****************
+2021-06-01 16:12:49,457 - root - INFO - **************Login Title is passed*****************
+2021-06-01 16:12:51,420 - root - INFO - ************** Test-002-Verifying Multilogin*****************
+2021-06-01 16:12:51,420 - root - INFO - ************** Test-002-Verifying Multilogin*****************
+2021-06-01 16:12:51,420 - root - INFO - ************** Test-002-Verifying Multilogin*****************
+2021-06-01 16:12:51,420 - root - INFO - **************Multilogin test starts*****************
+2021-06-01 16:12:51,420 - root - INFO - **************Multilogin test starts*****************
+2021-06-01 16:12:51,420 - root - INFO - **************Multilogin test starts*****************
+2021-06-01 16:13:03,837 - root - INFO - *****Passed********
+2021-06-01 16:13:03,837 - root - INFO - *****Passed********
+2021-06-01 16:13:03,837 - root - INFO - *****Passed********
+2021-06-01 16:13:03,838 - root - INFO - *********Passed************
+2021-06-01 16:13:03,838 - root - INFO - *********Passed************
+2021-06-01 16:13:03,838 - root - INFO - *********Passed************
+2021-06-01 16:13:10,134 - root - INFO - *****Passed********
+2021-06-01 16:13:10,134 - root - INFO - *****Passed********
+2021-06-01 16:13:10,134 - root - INFO - *****Passed********
+2021-06-01 16:13:10,135 - root - INFO - *********Failed************
+2021-06-01 16:13:10,135 - root - INFO - *********Failed************
+2021-06-01 16:13:10,135 - root - INFO - *********Failed************
+2021-06-01 16:13:15,522 - root - INFO - *****Passed********
+2021-06-01 16:13:15,522 - root - INFO - *****Passed********
+2021-06-01 16:13:15,522 - root - INFO - *****Passed********
+2021-06-01 16:13:15,523 - root - INFO - *********Failed************
+2021-06-01 16:13:15,523 - root - INFO - *********Failed************
+2021-06-01 16:13:15,523 - root - INFO - *********Failed************
+2021-06-01 16:13:20,903 - root - INFO - *****Passed********
+2021-06-01 16:13:20,903 - root - INFO - *****Passed********
+2021-06-01 16:13:20,903 - root - INFO - *****Passed********
+2021-06-01 16:13:20,904 - root - INFO - *********Failed************
+2021-06-01 16:13:20,904 - root - INFO - *********Failed************
+2021-06-01 16:13:20,904 - root - INFO - *********Failed************
+2021-06-01 16:13:26,286 - root - INFO - *****Passed********
+2021-06-01 16:13:26,286 - root - INFO - *****Passed********
+2021-06-01 16:13:26,286 - root - INFO - *****Passed********
+2021-06-01 16:13:26,287 - root - INFO - *********Passed************
+2021-06-01 16:13:26,287 - root - INFO - *********Passed************
+2021-06-01 16:13:26,287 - root - INFO - *********Passed************
+2021-06-01 16:13:26,913 - root - INFO - *****Testcase_002 Multilogin is passed****
+2021-06-01 16:13:26,913 - root - INFO - *****Testcase_002 Multilogin is passed****
+2021-06-01 16:13:26,913 - root - INFO - *****Testcase_002 Multilogin is passed****
+2021-06-01 16:13:27,044 - root - INFO - *****End of Multilogin Testcase_002 *******
+2021-06-01 16:13:27,044 - root - INFO - *****End of Multilogin Testcase_002 *******
+2021-06-01 16:13:27,044 - root - INFO - *****End of Multilogin Testcase_002 *******
+2021-06-01 16:13:27,045 - root - INFO - *****Testcase_002 is completed*******
+2021-06-01 16:13:27,045 - root - INFO - *****Testcase_002 is completed*******
+2021-06-01 16:13:27,045 - root - INFO - *****Testcase_002 is completed*******
+2021-06-01 16:13:28,490 - root - INFO - **************Test003_begins*****************
+2021-06-01 16:13:28,490 - root - INFO - **************Test003_begins*****************
+2021-06-01 16:13:28,490 - root - INFO - **************Test003_begins*****************
+2021-06-01 16:13:52,807 - root - INFO - **************New customer has been added*****************
+2021-06-01 16:13:52,807 - root - INFO - **************New customer has been added*****************
+2021-06-01 16:13:52,807 - root - INFO - **************New customer has been added*****************
+2021-06-01 16:13:55,852 - root - INFO - **************customer has been added successfully*****************
+2021-06-01 16:13:55,852 - root - INFO - **************customer has been added successfully*****************
+2021-06-01 16:13:55,852 - root - INFO - **************customer has been added successfully*****************
+2021-06-01 16:13:58,581 - root - INFO - **************End of Add Customer Testcase*****************
+2021-06-01 16:13:58,581 - root - INFO - **************End of Add Customer Testcase*****************
+2021-06-01 16:13:58,581 - root - INFO - **************End of Add Customer Testcase*****************
+2021-06-01 16:18:45,641 - root - INFO - **************Verifying Login Title*****************
+2021-06-01 16:18:45,641 - root - INFO - **************Verifying Login Title*****************
+2021-06-01 16:18:45,641 - root - INFO - **************Verifying Login Title*****************
+2021-06-01 16:18:52,441 - root - INFO - **************Login Title is passed*****************
+2021-06-01 16:18:52,441 - root - INFO - **************Login Title is passed*****************
+2021-06-01 16:18:52,441 - root - INFO - **************Login Title is passed*****************
+2021-06-01 16:32:10,580 - root - INFO - **************Test001_Login***********
+2021-06-01 16:32:10,580 - root - INFO - **************Test001_Login***********
+2021-06-01 16:32:10,580 - root - INFO - **************Test001_Login***********
+2021-06-01 16:32:10,734 - root - INFO - **************Verifying Homepage Title*****************
+2021-06-01 16:32:10,734 - root - INFO - **************Verifying Homepage Title*****************
+2021-06-01 16:32:10,734 - root - INFO - **************Verifying Homepage Title*****************
+2021-06-01 16:32:17,880 - root - INFO - **************Homepage Title is passed*****************
+2021-06-01 16:32:17,880 - root - INFO - **************Homepage Title is passed*****************
+2021-06-01 16:32:17,880 - root - INFO - **************Homepage Title is passed*****************
+2021-06-01 16:32:19,796 - root - INFO - **************Verifying Login Title*****************
+2021-06-01 16:32:19,796 - root - INFO - **************Verifying Login Title*****************
+2021-06-01 16:32:19,796 - root - INFO - **************Verifying Login Title*****************
+2021-06-01 16:32:29,098 - root - INFO - **************Login Title is passed*****************
+2021-06-01 16:32:29,098 - root - INFO - **************Login Title is passed*****************
+2021-06-01 16:32:29,098 - root - INFO - **************Login Title is passed*****************
+2021-06-01 16:32:31,219 - root - INFO - ************** Test-002-Verifying Multilogin*****************
+2021-06-01 16:32:31,219 - root - INFO - ************** Test-002-Verifying Multilogin*****************
+2021-06-01 16:32:31,219 - root - INFO - ************** Test-002-Verifying Multilogin*****************
+2021-06-01 16:32:31,220 - root - INFO - **************Multilogin test starts*****************
+2021-06-01 16:32:31,220 - root - INFO - **************Multilogin test starts*****************
+2021-06-01 16:32:31,220 - root - INFO - **************Multilogin test starts*****************
+2021-06-01 16:32:46,386 - root - INFO - *****Passed********
+2021-06-01 16:32:46,386 - root - INFO - *****Passed********
+2021-06-01 16:32:46,386 - root - INFO - *****Passed********
+2021-06-01 16:32:46,386 - root - INFO - *********Passed************
+2021-06-01 16:32:46,386 - root - INFO - *********Passed************
+2021-06-01 16:32:46,386 - root - INFO - *********Passed************
+2021-06-01 16:32:52,888 - root - INFO - *****Passed********
+2021-06-01 16:32:52,888 - root - INFO - *****Passed********
+2021-06-01 16:32:52,888 - root - INFO - *****Passed********
+2021-06-01 16:32:52,888 - root - INFO - *********Failed************
+2021-06-01 16:32:52,888 - root - INFO - *********Failed************
+2021-06-01 16:32:52,888 - root - INFO - *********Failed************
+2021-06-01 16:32:58,349 - root - INFO - *****Passed********
+2021-06-01 16:32:58,349 - root - INFO - *****Passed********
+2021-06-01 16:32:58,349 - root - INFO - *****Passed********
+2021-06-01 16:32:58,349 - root - INFO - *********Failed************
+2021-06-01 16:32:58,349 - root - INFO - *********Failed************
+2021-06-01 16:32:58,349 - root - INFO - *********Failed************
+2021-06-01 16:33:03,720 - root - INFO - *****Passed********
+2021-06-01 16:33:03,720 - root - INFO - *****Passed********
+2021-06-01 16:33:03,720 - root - INFO - *****Passed********
+2021-06-01 16:33:03,721 - root - INFO - *********Failed************
+2021-06-01 16:33:03,721 - root - INFO - *********Failed************
+2021-06-01 16:33:03,721 - root - INFO - *********Failed************
+2021-06-01 16:33:09,117 - root - INFO - *****Passed********
+2021-06-01 16:33:09,117 - root - INFO - *****Passed********
+2021-06-01 16:33:09,117 - root - INFO - *****Passed********
+2021-06-01 16:33:09,117 - root - INFO - *********Passed************
+2021-06-01 16:33:09,117 - root - INFO - *********Passed************
+2021-06-01 16:33:09,117 - root - INFO - *********Passed************
+2021-06-01 16:33:10,239 - root - INFO - *****Testcase_002 Multilogin is passed****
+2021-06-01 16:33:10,239 - root - INFO - *****Testcase_002 Multilogin is passed****
+2021-06-01 16:33:10,239 - root - INFO - *****Testcase_002 Multilogin is passed****
+2021-06-01 16:33:10,531 - root - INFO - *****End of Multilogin Testcase_002 *******
+2021-06-01 16:33:10,531 - root - INFO - *****End of Multilogin Testcase_002 *******
+2021-06-01 16:33:10,531 - root - INFO - *****End of Multilogin Testcase_002 *******
+2021-06-01 16:33:10,532 - root - INFO - *****Testcase_002 is completed*******
+2021-06-01 16:33:10,532 - root - INFO - *****Testcase_002 is completed*******
+2021-06-01 16:33:10,532 - root - INFO - *****Testcase_002 is completed*******
+2021-06-01 16:33:12,348 - root - INFO - **************Test003_begins*****************
+2021-06-01 16:33:12,348 - root - INFO - **************Test003_begins*****************
+2021-06-01 16:33:12,348 - root - INFO - **************Test003_begins*****************
+2021-06-01 16:33:43,467 - root - INFO - **************New customer has been added*****************
+2021-06-01 16:33:43,467 - root - INFO - **************New customer has been added*****************
+2021-06-01 16:33:43,467 - root - INFO - **************New customer has been added*****************
+2021-06-01 16:33:46,507 - root - INFO - **************customer has been added successfully*****************
+2021-06-01 16:33:46,507 - root - INFO - **************customer has been added successfully*****************
+2021-06-01 16:33:46,507 - root - INFO - **************customer has been added successfully*****************
+2021-06-01 16:33:49,367 - root - INFO - **************End of Add Customer Testcase*****************
+2021-06-01 16:33:49,367 - root - INFO - **************End of Add Customer Testcase*****************
+2021-06-01 16:33:49,367 - root - INFO - **************End of Add Customer Testcase*****************
+2021-06-01 16:35:22,954 - root - INFO - **************Test001_Login***********
+2021-06-01 16:35:22,954 - root - INFO - **************Test001_Login***********
+2021-06-01 16:35:22,954 - root - INFO - **************Test001_Login***********
+2021-06-01 16:35:22,989 - root - INFO - **************Verifying Homepage Title*****************
+2021-06-01 16:35:22,989 - root - INFO - **************Verifying Homepage Title*****************
+2021-06-01 16:35:22,989 - root - INFO - **************Verifying Homepage Title*****************
+2021-06-01 16:35:29,822 - root - INFO - **************Homepage Title is passed*****************
+2021-06-01 16:35:29,822 - root - INFO - **************Homepage Title is passed*****************
+2021-06-01 16:35:29,822 - root - INFO - **************Homepage Title is passed*****************
+2021-06-01 16:35:32,317 - root - INFO - **************Verifying Login Title*****************
+2021-06-01 16:35:32,317 - root - INFO - **************Verifying Login Title*****************
+2021-06-01 16:35:32,317 - root - INFO - **************Verifying Login Title*****************
+2021-06-01 16:35:38,531 - root - INFO - **************Login Title is passed*****************
+2021-06-01 16:35:38,531 - root - INFO - **************Login Title is passed*****************
+2021-06-01 16:35:38,531 - root - INFO - **************Login Title is passed*****************
+2021-06-01 16:35:40,611 - root - INFO - ************** Test-002-Verifying Multilogin*****************
+2021-06-01 16:35:40,611 - root - INFO - ************** Test-002-Verifying Multilogin*****************
+2021-06-01 16:35:40,611 - root - INFO - ************** Test-002-Verifying Multilogin*****************
+2021-06-01 16:35:40,612 - root - INFO - **************Multilogin test starts*****************
+2021-06-01 16:35:40,612 - root - INFO - **************Multilogin test starts*****************
+2021-06-01 16:35:40,612 - root - INFO - **************Multilogin test starts*****************
+2021-06-01 16:35:52,291 - root - INFO - *****Passed********
+2021-06-01 16:35:52,291 - root - INFO - *****Passed********
+2021-06-01 16:35:52,291 - root - INFO - *****Passed********
+2021-06-01 16:35:52,291 - root - INFO - *********Passed************
+2021-06-01 16:35:52,291 - root - INFO - *********Passed************
+2021-06-01 16:35:52,291 - root - INFO - *********Passed************
+2021-06-01 16:35:58,600 - root - INFO - *****Passed********
+2021-06-01 16:35:58,600 - root - INFO - *****Passed********
+2021-06-01 16:35:58,600 - root - INFO - *****Passed********
+2021-06-01 16:35:58,601 - root - INFO - *********Failed************
+2021-06-01 16:35:58,601 - root - INFO - *********Failed************
+2021-06-01 16:35:58,601 - root - INFO - *********Failed************
+2021-06-01 16:36:04,032 - root - INFO - *****Passed********
+2021-06-01 16:36:04,032 - root - INFO - *****Passed********
+2021-06-01 16:36:04,032 - root - INFO - *****Passed********
+2021-06-01 16:36:04,032 - root - INFO - *********Failed************
+2021-06-01 16:36:04,032 - root - INFO - *********Failed************
+2021-06-01 16:36:04,032 - root - INFO - *********Failed************
+2021-06-01 16:36:09,407 - root - INFO - *****Passed********
+2021-06-01 16:36:09,407 - root - INFO - *****Passed********
+2021-06-01 16:36:09,407 - root - INFO - *****Passed********
+2021-06-01 16:36:09,408 - root - INFO - *********Failed************
+2021-06-01 16:36:09,408 - root - INFO - *********Failed************
+2021-06-01 16:36:09,408 - root - INFO - *********Failed************
+2021-06-01 16:36:14,810 - root - INFO - *****Passed********
+2021-06-01 16:36:14,810 - root - INFO - *****Passed********
+2021-06-01 16:36:14,810 - root - INFO - *****Passed********
+2021-06-01 16:36:14,810 - root - INFO - *********Passed************
+2021-06-01 16:36:14,810 - root - INFO - *********Passed************
+2021-06-01 16:36:14,810 - root - INFO - *********Passed************
+2021-06-01 16:36:15,416 - root - INFO - *****Testcase_002 Multilogin is passed****
+2021-06-01 16:36:15,416 - root - INFO - *****Testcase_002 Multilogin is passed****
+2021-06-01 16:36:15,416 - root - INFO - *****Testcase_002 Multilogin is passed****
+2021-06-01 16:36:15,582 - root - INFO - *****End of Multilogin Testcase_002 *******
+2021-06-01 16:36:15,582 - root - INFO - *****End of Multilogin Testcase_002 *******
+2021-06-01 16:36:15,582 - root - INFO - *****End of Multilogin Testcase_002 *******
+2021-06-01 16:36:15,583 - root - INFO - *****Testcase_002 is completed*******
+2021-06-01 16:36:15,583 - root - INFO - *****Testcase_002 is completed*******
+2021-06-01 16:36:15,583 - root - INFO - *****Testcase_002 is completed*******
+2021-06-01 16:36:17,204 - root - INFO - **************Test003_begins*****************
+2021-06-01 16:36:17,204 - root - INFO - **************Test003_begins*****************
+2021-06-01 16:36:17,204 - root - INFO - **************Test003_begins*****************
+2021-06-01 16:36:40,893 - root - INFO - **************New customer has been added*****************
+2021-06-01 16:36:40,893 - root - INFO - **************New customer has been added*****************
+2021-06-01 16:36:40,893 - root - INFO - **************New customer has been added*****************
+2021-06-01 16:36:43,934 - root - INFO - **************customer has been added successfully*****************
+2021-06-01 16:36:43,934 - root - INFO - **************customer has been added successfully*****************
+2021-06-01 16:36:43,934 - root - INFO - **************customer has been added successfully*****************
+2021-06-01 16:36:46,791 - root - INFO - **************End of Add Customer Testcase*****************
+2021-06-01 16:36:46,791 - root - INFO - **************End of Add Customer Testcase*****************
+2021-06-01 16:36:46,791 - root - INFO - **************End of Add Customer Testcase*****************
+2021-11-02 13:15:29,557 - root - INFO - **************Test001_Login***********
+2021-11-02 13:15:29,557 - root - INFO - **************Test001_Login***********
+2021-11-02 13:15:29,557 - root - INFO - **************Test001_Login***********
+2021-11-02 13:15:29,660 - root - INFO - **************Verifying Homepage Title*****************
+2021-11-02 13:15:29,660 - root - INFO - **************Verifying Homepage Title*****************
+2021-11-02 13:15:29,660 - root - INFO - **************Verifying Homepage Title*****************
+2021-11-02 13:15:37,254 - root - INFO - **************Homepage Title is passed*****************
+2021-11-02 13:15:37,254 - root - INFO - **************Homepage Title is passed*****************
+2021-11-02 13:15:37,254 - root - INFO - **************Homepage Title is passed*****************
+2021-11-02 13:15:40,361 - root - INFO - **************Verifying Login Title*****************
+2021-11-02 13:15:40,361 - root - INFO - **************Verifying Login Title*****************
+2021-11-02 13:15:40,361 - root - INFO - **************Verifying Login Title*****************
+2021-11-02 13:16:01,796 - root - INFO - **************Login Title is passed*****************
+2021-11-02 13:16:01,796 - root - INFO - **************Login Title is passed*****************
+2021-11-02 13:16:01,796 - root - INFO - **************Login Title is passed*****************
+2021-11-02 13:16:05,307 - root - INFO - ************** Test-002-Verifying Multilogin*****************
+2021-11-02 13:16:05,307 - root - INFO - ************** Test-002-Verifying Multilogin*****************
+2021-11-02 13:16:05,307 - root - INFO - ************** Test-002-Verifying Multilogin*****************
+2021-11-02 13:16:05,307 - root - INFO - **************Multilogin test starts*****************
+2021-11-02 13:16:05,307 - root - INFO - **************Multilogin test starts*****************
+2021-11-02 13:16:05,307 - root - INFO - **************Multilogin test starts*****************
+2021-11-02 13:16:21,309 - root - INFO - *****Passed********
+2021-11-02 13:16:21,309 - root - INFO - *****Passed********
+2021-11-02 13:16:21,309 - root - INFO - *****Passed********
+2021-11-02 13:16:21,310 - root - INFO - *********Passed************
+2021-11-02 13:16:21,310 - root - INFO - *********Passed************
+2021-11-02 13:16:21,310 - root - INFO - *********Passed************
+2021-11-02 13:16:23,778 - root - INFO - **************Test003_begins*****************
+2021-11-02 13:16:23,778 - root - INFO - **************Test003_begins*****************
+2021-11-02 13:16:23,778 - root - INFO - **************Test003_begins*****************
